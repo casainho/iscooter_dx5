@@ -7992,3 +7992,27 @@
 - Sync 2026-11-23 02:28:47 WET: pass ended; 0 new, 572 existing updated, 1 failed; reconciliation required
 
 - All-post collection and recheck, 2026-11-23 02:28 WET: feed inspection reached the oldest original post displayed (12 February 2026, ID 2265730587568477), followed by group system events; omitted posts and ordering cannot be ruled out. Synchronization queue finished: 0 new, 572 existing records updated with partial captures; last processed ID 2265730587568477. One counted earlier failure (2516422159165984) was later rechecked successfully; no attempts exhausted in this run. Nine complete records with audit findings were skipped. Captures, comments, images, dates and models remain to be reconciled; full collection cannot be claimed.
+
+- Sync 2026-11-23 09:42:36 WET: starting newer sync; requested 10; chronological coverage unverified
+
+- Sync 2026-11-23 09:42:36 WET: stopped: [WinError 2] O sistema não conseguiu localizar o ficheiro especificado; last ID None
+
+- Sync 2026-11-23 09:59:13 WET: starting newer sync; requested 10; chronological coverage unverified
+
+- Sync 2026-11-23 09:59:13 WET: stopped: [WinError 2] O sistema não conseguiu localizar o ficheiro especificado; last ID None
+
+- Sync 2026-11-23 12:18:51 WET: starting newer sync; requested 10; chronological coverage unverified
+
+- Sync 2026-11-23 12:19:10 WET: stopped: New-posts sorting unavailable; last ID None
+
+- Sync 2026-11-23 12:26:04 WET: starting newer sync; requested 10; chronological coverage unverified
+
+- Sync 2026-11-23 12:26:23 WET: stopped: New-posts sorting unavailable; last ID None
+
+- Sync 2026-11-23 12:32:31 WET: starting newer sync; requested 10; chronological coverage unverified
+
+- Sync 2026-11-23 12:33:34 WET: stopped: browser automation did not respond; last ID None
+
+- Sync 2026-11-23 13:27:52 WET: starting newer sync; requested 10; chronological coverage unverified
+
+- Sync 2026-11-23 13:28:07 WET: stopped: New-posts sorting unavailable; last ID None
