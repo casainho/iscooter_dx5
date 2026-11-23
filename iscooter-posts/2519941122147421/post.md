@@ -1,0 +1,109 @@
+# Post 2519941122147421
+
+- **Author:** Eduardo Francisquini Corretor
+- **Date:** Sexta-feira, 30 de outubro de 2026 às 15:45; displayed time and time zone unverified.
+- **Link:** https://www.facebook.com/groups/2207593166715553/posts/2519941122147421/
+- **Model:** Not identified in visible post text.
+- **Collected on:** 21 November 2026 WET; exact minute unverified.
+- **Status:** partial — text/language, comment hierarchy/count and attachment coverage require verification.
+
+## Original text
+
+No author text identifiable; post may consist of media or a share.
+
+### Individual post capture (unverified)
+
+The following is the visible header and post area after attempting to reveal original and expanded text. It can include interface labels, translations, reaction counts or media titles; it is not yet a clean original-text transcription.
+
+> Publicação de Eduardo Francisquini Corretor
+> Iscooter DX5/Pro
+> Eduardo Francisquini Corretor
+>  
+> ·
+> Sexta-feira, 30 de outubro de 2026 às 15:45
+> 30 de outubro às 15:45
+>  
+> ·
+> Olá, alguém sabe aonde encontro o acelerador da dx5? ou qual substitui?
+>  
+
+## Comments and replies
+
+Visible capture below retains Facebook interface labels and relative dates. Filter, comment count, hierarchy and completeness need verification.
+
+Facebook displayed no comments.
+
+## Images and attachments
+
+No post image downloaded; attachment presence not independently verified.
+
+## Collection notes
+
+Captured from individual post. Original-language status and full attachment coverage need review; images not interpreted, videos not downloaded. Chronological feed may have gaps.
+
+### Feed excerpt (partial, unverified)
+
+The following was visible in the chronological feed; it may include interface labels, comments, automatic translation, or truncated text. It is preserved as an unverified excerpt, not an original-text transcription:
+
+> Eduardo Francisquini Corretor
+> Sexta-feira, 30 de outubro de 2026 às 15:45
+> 30 de outubro às 15:45
+>  
+> ·
+> Olá, alguém sabe aonde encontro o acelerador da dx5? ou qual substitui?
+>  
+>  
+>  
+>  
+> Comentar como Jorge
+
+## Recheck capture — 2026-11-22 00:38 WET (UTC+00:00)
+
+Unreviewed supplementary capture; Facebook UI labels, relative dates, translations, hidden replies and duplicate material may appear. This does not supersede the earlier transcription. Images were not reviewed in this recheck.
+
+No additional comment text could be isolated from the visible page.
+
+
+## Background recheck — 2026-11-22 20:37:30 WET
+
+Supplementary, unreviewed capture; original data retained. Filter: not verified; Facebook count: not verified; 0 comment/reply articles visible. Unopened reply controls: none observed. UI labels, translations, missing content, duplicate captures and uncertain hierarchy may appear. Image contents not interpreted. This capture does not establish completeness; status remains partial.
+
+### Visible dialog capture
+
+NotificaçõesTudoNão lida(s)Novas Ver tudoNão lidasRicardo Rcr alterou a foto de capa do grupo Circuito de Trail da Beira Alta.3 hAnteriores Não lidasSandra Cunha Quintino mencionou-te num comentário no grupo Retratos e Memórias de Águeda-a-Linda.1 dNão lidasTroféu de Trail Terras de Águeda e Ilidio Faria publicaram no grupo Provas de Trail.1 dNão lidasMototaxi Senna, Paulo Henrique Souza Silva e Jaerson Jose publicaram no grupo Circuito NGPS.1 dNão lidasDamos as boas-vindas ao grupo Iscooter DX5/Pro. Agora podes publicar, contactar com outros membros e muito mais.1 dVer notificações anteriores
+
+### Comment and reply articles
+
+### Images observed
+
+No downloadable post or comment images observed; attachment coverage not verified.
+
+
+## Synchronization recheck — 2026-11-22 23:30:47 WET
+
+Facebook displayed an unverified number of comments; 0 articles captured; filter: not verified; no unopened reply controls observed; completeness not verified.
+
+<!-- sync-capture-sha256: e468dd49942db82634223f7db41bc0fb73b138d1e6afdd4c3ca088991425378c -->
+
+### Unverified dialog capture
+
+Publicação de Eduardo Francisquini Corretor
+Iscooter DX5/Pro
+Eduardo Francisquini Corretor
+ 
+·
+Sexta-feira, 30 de outubro de 2026 às 15:45
+30 de outubro às 15:45
+ 
+·
+Olá, alguém sabe aonde encontro o acelerador da dx5? ou qual substitui?
+Ainda sem comentários
+Sê a primeira pessoa a comentar.
+
+
+
+
+Comentar como Jorge
+
+### Visible comment and reply articles
+

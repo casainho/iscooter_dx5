@@ -273,3 +273,1074 @@ Source: Browser
 
 Incomplete capture; the source snapshot is truncated. Times have unverified time zones.
 
+
+## Recheck capture — 2026-11-22 00:29 WET (UTC+00:00)
+
+Unreviewed supplementary capture; Facebook UI labels, relative dates, translations, hidden replies and duplicate material may appear. This does not supersede the earlier transcription. Images were not reviewed in this recheck.
+
+### Visible post message (original-language status unverified)
+
+I have 2 iscooter dx5, i want to take one battery of one and use it to duplicate the capacity of other.. this is the correct way and material??
+
+### Visible comments (filter and hierarchy unverified)
+
+﻿
+Floyd Codling
+ 
+·
+2 d
+The battery voltage needs to match
+Responder
+Partilhar
+Sasa Musikiwamba
+ 
+·
+2 d
+Floyd Codling so does the chemistry and ideally the age.
+Responder
+Partilhar
+David Moreira
+ 
+·
+2 d
+Sasa Musikiwamba they are both new from 2 iscooter dx5
+Responder
+Partilhar
+Sasa Musikiwamba
+ 
+·
+2 d
+then you don't need the balancer and you can split the charging wire and charge them in parallel. I am pretty sure they will both fit in the deck and you don't need the extension cable either
+Responder
+Partilhar
+
+
+
+
+Responder como Jorge
+Sasa Musikiwamba
+ 
+·
+2 d
+What’s your plan for charging?
+Responder
+Partilhar
+David Moreira
+ 
+·
+2 d
+Sasa Musikiwamba i think this way, i have to charge one by one, never both at same time, there is another way?
+Responder
+Partilhar
+Joni Ohranen
+ 
+·
+2 d
+David Moreira there are blenders that have 1 charging port for both batteries.
+Responder
+Partilhar
+
+
+
+
+Responder como Jorge
+David Moreira
+ 
+·
+2 d
+Sasa Musikiwamba what is the best way to charge both at the same time?
+Responder
+Partilhar
+Don Lee Donald III
+ 
+·
+2 d
+David Moreira I have another charger for my second battery, it's the only way to charge both at the same time without other components.
+Personally I prefer charging them separately as it would take forever to charge otherwise.
+Responder
+Partilhar
+David Moreira
+ 
+·
+2 d
+Don Lee Donald III i also haave another charger. Same way i have 2 bateries i have two chargers but i had saw somewhere that in this way to duplicate the cappacity i cant charge both at the same time
+Responder
+Partilhar
+Editado
+Joni Ohranen
+ 
+·
+2 d
+David Moreira
+Responder
+Partilhar
+Sasa Musikiwamba
+ 
+·
+2 d
+Don Lee Donald III pretty sure if the battereis are identical you can split the charge line. they will charge at the same rate so they wont be stressing each other out.
+Responder
+Partilhar
+Editado
+Sasa Musikiwamba
+ 
+·
+2 d
+i would not do this with batteries that are not the same age.
+Responder
+Partilhar
+
+
+
+
+Responder como Jorge
+Sasa Musikiwamba
+ 
+·
+2 d
+Where will the second battery be
+Responder
+Partilhar
+David Moreira
+ 
+·
+2 d
+Sasa Musikiwamba nearby rhe seat
+Responder
+Partilhar
+Sébastien Langevin
+ 
+·
+2 d
+Bonjour, c'est se que j'ai voulu faire 2 batterie identique sa a tout cramé
+Responder
+Ver tradução
+Partilhar
+David Moreira
+ 
+·
+2 d
+Sébastien Langevin my biggest fear
+Responder
+Partilhar
+Ver 1 resposta
+
+
+
+
+Responder como Jorge
+
+
+
+
+Responder como Jorge
+
+## Recheck — 2026-11-22 01:04 WET (UTC+00:00)
+
+Supplementary unreviewed capture; filter: Most relevant. It may contain UI labels, translations, duplicates or hidden replies. Prior material is retained; record remains partial.
+
+### Visible comments — hierarchy unverified
+
+﻿
+Sasa Musikiwamba
+ 
+·
+2 d
+What’s your plan for charging?
+Responder
+Partilhar
+David Moreira
+ 
+·
+2 d
+Sasa Musikiwamba i think this way, i have to charge one by one, never both at same time, there is another way?
+Responder
+Partilhar
+Joni Ohranen
+ 
+·
+2 d
+David Moreira there are blenders that have 1 charging port for both batteries.
+Responder
+Partilhar
+David Moreira
+ 
+·
+2 d
+Sasa Musikiwamba what is the best way to charge both at the same time?
+Responder
+Partilhar
+Ver 5 respostas
+
+
+
+
+Responder como Jorge
+Sasa Musikiwamba
+ 
+·
+2 d
+Where will the second battery be
+Responder
+Partilhar
+David Moreira
+ 
+·
+2 d
+Sasa Musikiwamba nearby rhe seat
+Responder
+Partilhar
+
+
+
+
+Responder como Jorge
+Floyd Codling
+ 
+·
+2 d
+The battery voltage needs to match
+Responder
+Partilhar
+Sasa Musikiwamba
+ 
+·
+2 d
+Floyd Codling so does the chemistry and ideally the age.
+Responder
+Partilhar
+
+
+
+
+Responder como Jorge
+
+
+
+
+Responder como Jorge
+
+
+
+
+Responder como Jorge
+
+### Additional images
+
+- [image-recheck-1.jpg](image-recheck-1.jpg) — discussion-linked; exact post/comment source and resolution unverified. [Facebook photo](https://www.facebook.com/photo/?fbid=1669551971488674&set=gm.2544246466383553&idorvanity=2207593166715553).
+
+## Recheck — 2026-11-22 11:34 WET
+
+Supplementary visible dialog capture, unreviewed: may contain translation, interface labels, filtered comments or truncated replies. Existing material preserved; status remains partial.
+
+Publicação de David Moreira
+Iscooter DX5/Pro
+David Moreira
+ 
+·
+há 2 dias
+Quinta-feira, 19 de novembro de 2026 às 04:35
+2 d
+ 
+·
+I have 2 iscooter dx5, i want to take one battery of one and use it to duplicate the capacity of other.. this is the correct way and material??
+4
+18
+Mais relevantes﻿
+Sasa Musikiwamba
+ 
+·
+2 d
+What’s your plan for charging?
+Responder
+Partilhar
+Ver 8 respostas
+Sasa Musikiwamba
+ 
+·
+2 d
+Where will the second battery be
+Responder
+Partilhar
+Ver 1 resposta
+Floyd Codling
+ 
+·
+2 d
+The battery voltage needs to match
+Responder
+Partilhar
+Ver 3 respostas
+
+
+
+
+Responder como Jorge
+
+## Deep recheck — 2026-11-22 12:58 WET
+
+Visible dialog capture; original display and comment filter may have been changed; verify translations, UI labels, reply hierarchy and completeness. Previously captured material preserved; status remains partial.
+
+Publicação de David Moreira
+Iscooter DX5/Pro
+David Moreira
+ 
+·
+há 3 dias
+Quinta-feira, 19 de novembro de 2026 às 04:35
+3 d
+ 
+·
+I have 2 iscooter dx5, i want to take one battery of one and use it to duplicate the capacity of other.. this is the correct way and material??
+4
+18
+Todos os comentários﻿
+Floyd Codling
+ 
+·
+3 d
+The battery voltage needs to match
+Responder
+Partilhar
+Sasa Musikiwamba
+ 
+·
+3 d
+Floyd Codling so does the chemistry and ideally the age.
+Responder
+Partilhar
+David Moreira
+ 
+·
+2 d
+Sasa Musikiwamba they are both new from 2 iscooter dx5
+Responder
+Partilhar
+Sasa Musikiwamba
+ 
+·
+2 d
+then you don't need the balancer and you can split the charging wire and charge them in parallel. I am pretty sure they will both fit in the deck and you don't need the extension cable either
+Responder
+Partilhar
+
+
+
+
+Responder como Jorge
+
+
+
+
+Responder como Jorge
+Sasa Musikiwamba
+ 
+·
+3 d
+What’s your plan for charging?
+Responder
+Partilhar
+David Moreira
+ 
+·
+2 d
+Sasa Musikiwamba i think this way, i have to charge one by one, never both at same time, there is another way?
+Responder
+Partilhar
+Joni Ohranen
+ 
+·
+2 d
+David Moreira there are blenders that have 1 charging port for both batteries.
+Responder
+Partilhar
+
+
+
+
+Responder como Jorge
+David Moreira
+ 
+·
+2 d
+Sasa Musikiwamba what is the best way to charge both at the same time?
+Responder
+Partilhar
+Don Lee Donald III
+ 
+·
+2 d
+David Moreira I have another charger for my second battery, it's the only way to charge both at the same time without other components.
+Personally I prefer charging them separately as it would take forever to charge otherwise.
+Responder
+Partilhar
+David Moreira
+ 
+·
+2 d
+Don Lee Donald III i also haave another charger. Same way i have 2 bateries i have two chargers but i had saw somewhere that in this way to duplicate the cappacity i cant charge both at the same time
+Responder
+Partilhar
+Editado
+Joni Ohranen
+ 
+·
+2 d
+David Moreira
+Responder
+Partilhar
+Sasa Musikiwamba
+ 
+·
+2 d
+Don Lee Donald III pretty sure if the battereis are identical you can split the charge line. they will charge at the same rate so they wont be stressing each other out.
+Responder
+Partilhar
+Editado
+Sasa Musikiwamba
+ 
+·
+2 d
+i would not do this with batteries that are not the same age.
+Responder
+Partilhar
+
+
+
+
+Responder como Jorge
+
+
+
+
+Responder como Jorge
+Sasa Musikiwamba
+ 
+·
+3 d
+Where will the second battery be
+Responder
+Partilhar
+David Moreira
+ 
+·
+2 d
+Sasa Musikiwamba nearby rhe seat
+Responder
+Partilhar
+
+
+
+
+Responder como Jorge
+Sébastien Langevin
+ 
+·
+2 d
+Bonjour, c'est se que j'ai voulu faire 2 batterie identique sa a tout cramé
+Responder
+Ver tradução
+Partilhar
+David Moreira
+ 
+·
+2 d
+Sébastien Langevin my biggest fear
+Responder
+Partilhar
+Sébastien Langevin
+ 
+·
+2 d
+David Moreira pourtant j'avais tout se qu'il fallait pour mettre les deux batteries ensemble, la batterie d'origine na rien eu mais la deuxième batterie elle, elle a fumé, du coup pour iscooter se serait le tableau de bord qui aurait cramé, j'attend de le recevoir j'espère que c'est que ca
+Responder
+Ver tradução
+Partilhar
+
+
+
+
+Responder como Jorge
+
+
+
+
+Responder como Jorge
+
+
+
+
+Responder como Jorge
+
+## Recheck — 22 November 2026, 16:15 WET
+
+All comments selected; 18 indicated, 18 comment/reply articles visible after expansion. The following supplementary raw capture retains UI labels and may duplicate prior text; displayed dates have unverified time zones. Comment images and their source need verification; previously saved post image preserved. Status remains partial.
+
+### Comentário de Floyd Codling há 3 dias — Quinta-feira, 19 de novembro de 2026 às 12:50
+
+Floyd Codling
+ 
+·
+3 d
+The battery voltage needs to match
+Responder
+Partilhar
+
+### Resposta de Sasa Musikiwamba ao comentário de Floyd Codling há 3 dias — Quinta-feira, 19 de novembro de 2026 às 12:52
+
+Sasa Musikiwamba
+ 
+·
+3 d
+Floyd Codling so does the chemistry and ideally the age.
+Responder
+Partilhar
+
+### Resposta de David Moreira à resposta de Sasa Musikiwamba a há 3 dias — Quinta-feira, 19 de novembro de 2026 às 13:01
+
+David Moreira
+ 
+·
+3 d
+Sasa Musikiwamba they are both new from 2 iscooter dx5
+Responder
+Partilhar
+
+### Resposta de Sasa Musikiwamba à resposta de David Moreira a há 2 dias — Quinta-feira, 19 de novembro de 2026 às 16:29
+
+Sasa Musikiwamba
+ 
+·
+2 d
+then you don't need the balancer and you can split the charging wire and charge them in parallel. I am pretty sure they will both fit in the deck and you don't need the extension cable either
+Responder
+Partilhar
+
+### Comentário de Sasa Musikiwamba há 3 dias — Quinta-feira, 19 de novembro de 2026 às 12:51
+
+Sasa Musikiwamba
+ 
+·
+3 d
+What’s your plan for charging?
+Responder
+Partilhar
+
+### Resposta de David Moreira ao comentário de Sasa Musikiwamba há 3 dias — Quinta-feira, 19 de novembro de 2026 às 13:00
+
+David Moreira
+ 
+·
+3 d
+Sasa Musikiwamba i think this way, i have to charge one by one, never both at same time, there is another way?
+Responder
+Partilhar
+
+### Resposta de Joni Ohranen à resposta de David Moreira a há 3 dias — Quinta-feira, 19 de novembro de 2026 às 15:06
+
+Joni Ohranen
+ 
+·
+3 d
+David Moreira there are blenders that have 1 charging port for both batteries.
+Responder
+Partilhar
+
+### Resposta de David Moreira ao comentário de Sasa Musikiwamba há 3 dias — Quinta-feira, 19 de novembro de 2026 às 13:34
+
+David Moreira
+ 
+·
+3 d
+Sasa Musikiwamba what is the best way to charge both at the same time?
+Responder
+Partilhar
+
+### Resposta de Don Lee Donald III à resposta de David Moreira a há 3 dias — Quinta-feira, 19 de novembro de 2026 às 13:38
+
+Don Lee Donald III
+ 
+·
+3 d
+David Moreira I have another charger for my second battery, it's the only way to charge both at the same time without other components.
+Personally I prefer charging them separately as it would take forever to charge otherwise.
+Responder
+Partilhar
+
+### Resposta de David Moreira à resposta de Don Lee Donald III a há 3 dias — Quinta-feira, 19 de novembro de 2026 às 13:45
+
+David Moreira
+ 
+·
+3 d
+Don Lee Donald III i also haave another charger. Same way i have 2 bateries i have two chargers but i had saw somewhere that in this way to duplicate the cappacity i cant charge both at the same time
+Responder
+Partilhar
+Editado
+
+### Resposta de Joni Ohranen à resposta de David Moreira a há 3 dias — Quinta-feira, 19 de novembro de 2026 às 15:07
+
+Joni Ohranen
+ 
+·
+3 d
+David Moreira
+Responder
+Partilhar
+
+### Resposta de Sasa Musikiwamba à resposta de Don Lee Donald III a há 2 dias — Quinta-feira, 19 de novembro de 2026 às 16:30
+
+Sasa Musikiwamba
+ 
+·
+2 d
+Don Lee Donald III pretty sure if the battereis are identical you can split the charge line. they will charge at the same rate so they wont be stressing each other out.
+Responder
+Partilhar
+Editado
+
+### Resposta de Sasa Musikiwamba à resposta de Don Lee Donald III a há 2 dias — Quinta-feira, 19 de novembro de 2026 às 16:31
+
+Sasa Musikiwamba
+ 
+·
+2 d
+i would not do this with batteries that are not the same age.
+Responder
+Partilhar
+
+### Comentário de Sasa Musikiwamba há 3 dias — Quinta-feira, 19 de novembro de 2026 às 12:51
+
+Sasa Musikiwamba
+ 
+·
+3 d
+Where will the second battery be
+Responder
+Partilhar
+
+### Resposta de David Moreira ao comentário de Sasa Musikiwamba há 3 dias — Quinta-feira, 19 de novembro de 2026 às 12:59
+
+David Moreira
+ 
+·
+3 d
+Sasa Musikiwamba nearby rhe seat
+Responder
+Partilhar
+
+### Comentário de Sébastien Langevin há 3 dias — Quinta-feira, 19 de novembro de 2026 às 13:53
+
+Sébastien Langevin
+ 
+·
+3 d
+Bonjour, c'est se que j'ai voulu faire 2 batterie identique sa a tout cramé
+Responder
+Ver tradução
+Partilhar
+
+### Resposta de David Moreira ao comentário de Sébastien Langevin há 3 dias — Quinta-feira, 19 de novembro de 2026 às 13:54
+
+David Moreira
+ 
+·
+3 d
+Sébastien Langevin my biggest fear
+Responder
+Partilhar
+
+### Resposta de Sébastien Langevin à resposta de David Moreira a há 3 dias — Quinta-feira, 19 de novembro de 2026 às 13:58
+
+Sébastien Langevin
+ 
+·
+3 d
+David Moreira pourtant j'avais tout se qu'il fallait pour mettre les deux batteries ensemble, la batterie d'origine na rien eu mais la deuxième batterie elle, elle a fumé, du coup pour iscooter se serait le tableau de bord qui aurait cramé, j'attend de le recevoir j'espère que c'est que ca
+Responder
+Ver tradução
+Partilhar
+
+
+## Background recheck — 2026-11-22 20:26:15 WET
+
+Supplementary, unreviewed capture; original data retained. Filter: All comments; Facebook count: 18; 0 comment/reply articles visible. Unopened reply controls: none observed. UI labels, translations, missing content, duplicate captures and uncertain hierarchy may appear. Image contents not interpreted. This capture does not establish completeness; status remains partial.
+
+### Visible dialog capture
+
+NotificaçõesTudoNão lida(s)Novas Ver tudoNão lidasRicardo Rcr alterou a foto de capa do grupo Circuito de Trail da Beira Alta.2 hAnteriores Não lidasSandra Cunha Quintino mencionou-te num comentário no grupo Retratos e Memórias de Águeda-a-Linda.1 dNão lidasTroféu de Trail Terras de Águeda e Ilidio Faria publicaram no grupo Provas de Trail.1 dNão lidasMototaxi Senna, Paulo Henrique Souza Silva e Jaerson Jose publicaram no grupo Circuito NGPS.1 dNão lidasDamos as boas-vindas ao grupo Iscooter DX5/Pro. Agora podes publicar, contactar com outros membros e muito mais.1 dVer notificações anteriores
+
+### Comment and reply articles
+
+### Images observed
+
+No downloadable post or comment images observed; attachment coverage not verified.
+
+
+## Synchronization recheck — 2026-11-22 23:22:11 WET
+
+Facebook displayed 18 comments; 17 articles captured; filter: All comments; no unopened reply controls observed; completeness not verified.
+
+- Existing image duplicate, 526 × 1173; post; [Facebook photo](https://www.facebook.com/photo/?fbid=1669551971488674&set=gm.2544246466383553&idorvanity=2207593166715553).
+- [background-3981eb9386ea.jpg](background-3981eb9386ea.jpg) — comment image, 225 × 225; reduced resolution possible; [Facebook photo](https://www.facebook.com/photo.php?fbid=122319331640019416&set=p.122319331640019416&type=3).
+- Existing image duplicate, 225 × 225; comment; [Facebook photo](https://www.facebook.com/photo.php?fbid=122319331754019416&set=p.122319331754019416&type=3).
+
+<!-- sync-capture-sha256: 78c3dfb3542eeca49b4e165f7715297fb3cb9e27b63bd7bf28d606b5c92adb00 -->
+
+### Unverified dialog capture
+
+Publicação de David Moreira
+Iscooter DX5/Pro
+David Moreira
+ 
+·
+há 3 dias
+Quinta-feira, 19 de novembro de 2026 às 04:35
+3 d
+ 
+·
+I have 2 iscooter dx5, i want to take one battery of one and use it to duplicate the capacity of other.. this is the correct way and material??
+4
+18
+Todos os comentários﻿
+Floyd Codling
+ 
+·
+3 d
+The battery voltage needs to match
+Responder
+Partilhar
+Sasa Musikiwamba
+ 
+·
+3 d
+Floyd Codling so does the chemistry and ideally the age.
+Responder
+Partilhar
+David Moreira
+ 
+·
+3 d
+Sasa Musikiwamba they are both new from 2 iscooter dx5
+Responder
+Partilhar
+Sasa Musikiwamba
+ 
+·
+3 d
+then you don't need the balancer and you can split the charging wire and charge them in parallel. I am pretty sure they will both fit in the deck and you don't need the extension cable either
+Responder
+Partilhar
+
+
+
+
+Responder como Jorge
+
+
+
+
+Responder como Jorge
+Sasa Musikiwamba
+ 
+·
+3 d
+What’s your plan for charging?
+Responder
+Partilhar
+David Moreira
+ 
+·
+3 d
+Sasa Musikiwamba i think this way, i have to charge one by one, never both at same time, there is another way?
+Responder
+Partilhar
+Joni Ohranen
+ 
+·
+3 d
+David Moreira there are blenders that have 1 charging port for both batteries.
+Responder
+Partilhar
+
+
+
+
+Responder como Jorge
+David Moreira
+ 
+·
+3 d
+Sasa Musikiwamba what is the best way to charge both at the same time?
+Responder
+Partilhar
+Don Lee Donald III
+ 
+·
+3 d
+David Moreira I have another charger for my second battery, it's the only way to charge both at the same time without other components.
+Personally I prefer charging them separately as it would take forever to charge otherwise.
+Responder
+Partilhar
+David Moreira
+ 
+·
+3 d
+Don Lee Donald III i also haave another charger. Same way i have 2 bateries i have two chargers but i had saw somewhere that in this way to duplicate the cappacity i cant charge both at the same time
+Responder
+Partilhar
+Editado
+Joni Ohranen
+ 
+·
+3 d
+David Moreira
+Responder
+Partilhar
+Sasa Musikiwamba
+ 
+·
+3 d
+Don Lee Donald III pretty sure if the battereis are identical you can split the charge line. they will charge at the same rate so they wont be stressing each other out.
+Responder
+Partilhar
+Editado
+Sasa Musikiwamba
+ 
+·
+3 d
+i would not do this with batteries that are not the same age.
+Responder
+Partilhar
+
+
+
+
+Responder como Jorge
+
+
+
+
+Responder como Jorge
+Sasa Musikiwamba
+ 
+·
+3 d
+Where will the second battery be
+Responder
+Partilhar
+David Moreira
+ 
+·
+3 d
+Sasa Musikiwamba nearby rhe seat
+Responder
+Partilhar
+
+
+
+
+Responder como Jorge
+Sébastien Langevin
+ 
+·
+3 d
+Bonjour, c'est se que j'ai voulu faire 2 batterie identique sa a tout cramé
+Responder
+Ver tradução
+Partilhar
+David Moreira
+ 
+·
+3 d
+Sébastien Langevin my biggest fear
+Responder
+Partilhar
+Ver 1 resposta
+
+
+
+
+Responder como Jorge
+
+
+
+
+Responder como Jorge
+
+### Visible comment and reply articles
+
+#### Comentário de Floyd Codling há 3 dias — Quinta-feira, 19 de novembro de 2026 às 12:50
+
+Floyd Codling
+ 
+·
+3 d
+The battery voltage needs to match
+Responder
+Partilhar
+
+#### Resposta de Sasa Musikiwamba ao comentário de Floyd Codling há 3 dias — Quinta-feira, 19 de novembro de 2026 às 12:52
+
+Sasa Musikiwamba
+ 
+·
+3 d
+Floyd Codling so does the chemistry and ideally the age.
+Responder
+Partilhar
+
+#### Resposta de David Moreira à resposta de Sasa Musikiwamba a há 3 dias — Quinta-feira, 19 de novembro de 2026 às 13:01
+
+David Moreira
+ 
+·
+3 d
+Sasa Musikiwamba they are both new from 2 iscooter dx5
+Responder
+Partilhar
+
+#### Resposta de Sasa Musikiwamba à resposta de David Moreira a há 3 dias — Quinta-feira, 19 de novembro de 2026 às 16:29
+
+Sasa Musikiwamba
+ 
+·
+3 d
+then you don't need the balancer and you can split the charging wire and charge them in parallel. I am pretty sure they will both fit in the deck and you don't need the extension cable either
+Responder
+Partilhar
+
+#### Comentário de Sasa Musikiwamba há 3 dias — Quinta-feira, 19 de novembro de 2026 às 12:51
+
+Sasa Musikiwamba
+ 
+·
+3 d
+What’s your plan for charging?
+Responder
+Partilhar
+
+#### Resposta de David Moreira ao comentário de Sasa Musikiwamba há 3 dias — Quinta-feira, 19 de novembro de 2026 às 13:00
+
+David Moreira
+ 
+·
+3 d
+Sasa Musikiwamba i think this way, i have to charge one by one, never both at same time, there is another way?
+Responder
+Partilhar
+
+#### Resposta de Joni Ohranen à resposta de David Moreira a há 3 dias — Quinta-feira, 19 de novembro de 2026 às 15:06
+
+Joni Ohranen
+ 
+·
+3 d
+David Moreira there are blenders that have 1 charging port for both batteries.
+Responder
+Partilhar
+
+#### Resposta de David Moreira ao comentário de Sasa Musikiwamba há 3 dias — Quinta-feira, 19 de novembro de 2026 às 13:34
+
+David Moreira
+ 
+·
+3 d
+Sasa Musikiwamba what is the best way to charge both at the same time?
+Responder
+Partilhar
+
+#### Resposta de Don Lee Donald III à resposta de David Moreira a há 3 dias — Quinta-feira, 19 de novembro de 2026 às 13:38
+
+Don Lee Donald III
+ 
+·
+3 d
+David Moreira I have another charger for my second battery, it's the only way to charge both at the same time without other components.
+Personally I prefer charging them separately as it would take forever to charge otherwise.
+Responder
+Partilhar
+
+#### Resposta de David Moreira à resposta de Don Lee Donald III a há 3 dias — Quinta-feira, 19 de novembro de 2026 às 13:45
+
+David Moreira
+ 
+·
+3 d
+Don Lee Donald III i also haave another charger. Same way i have 2 bateries i have two chargers but i had saw somewhere that in this way to duplicate the cappacity i cant charge both at the same time
+Responder
+Partilhar
+Editado
+
+#### Resposta de Joni Ohranen à resposta de David Moreira a há 3 dias — Quinta-feira, 19 de novembro de 2026 às 15:07
+
+Joni Ohranen
+ 
+·
+3 d
+David Moreira
+Responder
+Partilhar
+
+#### Resposta de Sasa Musikiwamba à resposta de Don Lee Donald III a há 3 dias — Quinta-feira, 19 de novembro de 2026 às 16:30
+
+Sasa Musikiwamba
+ 
+·
+3 d
+Don Lee Donald III pretty sure if the battereis are identical you can split the charge line. they will charge at the same rate so they wont be stressing each other out.
+Responder
+Partilhar
+Editado
+
+#### Resposta de Sasa Musikiwamba à resposta de Don Lee Donald III a há 3 dias — Quinta-feira, 19 de novembro de 2026 às 16:31
+
+Sasa Musikiwamba
+ 
+·
+3 d
+i would not do this with batteries that are not the same age.
+Responder
+Partilhar
+
+#### Comentário de Sasa Musikiwamba há 3 dias — Quinta-feira, 19 de novembro de 2026 às 12:51
+
+Sasa Musikiwamba
+ 
+·
+3 d
+Where will the second battery be
+Responder
+Partilhar
+
+#### Resposta de David Moreira ao comentário de Sasa Musikiwamba há 3 dias — Quinta-feira, 19 de novembro de 2026 às 12:59
+
+David Moreira
+ 
+·
+3 d
+Sasa Musikiwamba nearby rhe seat
+Responder
+Partilhar
+
+#### Comentário de Sébastien Langevin há 3 dias — Quinta-feira, 19 de novembro de 2026 às 13:53
+
+Sébastien Langevin
+ 
+·
+3 d
+Bonjour, c'est se que j'ai voulu faire 2 batterie identique sa a tout cramé
+Responder
+Ver tradução
+Partilhar
+
+#### Resposta de David Moreira ao comentário de Sébastien Langevin há 3 dias — Quinta-feira, 19 de novembro de 2026 às 13:54
+
+David Moreira
+ 
+·
+3 d
+Sébastien Langevin my biggest fear
+Responder
+Partilhar
+
