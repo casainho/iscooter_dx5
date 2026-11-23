@@ -415,178 +415,178 @@ Previous checklist missing; previous reported 10/583 cannot be independently ver
 | 2485762868898580 | reviewed | c64f7ef65cfe8e3265d74245eeaefb1214fe78791780b8d2c985ec202c0f034e | Question about rear shock size and replacement; Jérémy recounts same shock modification as 2466943354113865, compatibility not verified. Images inspected. |
 | 2486809322127268 | reviewed | ea68f603145498b6f9d147eb89675ad1d5d915c85783b96d80bcdde70425dc6d | Controller wiring upgrade question; DIY advice and video link, no defect stated, video unavailable. |
 | 2486870352121165 | reviewed | 401bbede679060f5673c69ea9b785f309d1b059aaf7a01093c57ab7009ba778a | Commute and insurance discussion; Jérémy repeats shock dissatisfaction and describes a prior accident on a different electric scooter, explicitly unrelated to current vehicle. Images inspected; later capture hides replies. |
-| 2486898675451666 | pending | — | Prior review status unavailable. |
-| 2486929278781939 | pending | — | Prior review status unavailable. |
-| 2487135812094619 | pending | — | Prior review status unavailable. |
-| 2487165998758267 | pending | — | Prior review status unavailable. |
-| 2487317978743069 | pending | — | Prior review status unavailable. |
-| 2487529225388611 | pending | — | Prior review status unavailable. |
-| 2487875402020660 | pending | — | Prior review status unavailable. |
-| 2488157571992443 | pending | — | Prior review status unavailable. |
-| 2488436188631248 | pending | — | Prior review status unavailable. |
-| 2489058645235669 | pending | — | Prior review status unavailable. |
-| 2490351418439725 | pending | — | Prior review status unavailable. |
-| 2490492985092235 | pending | — | Prior review status unavailable. |
-| 2490811328393734 | pending | — | Prior review status unavailable. |
-| 2491165371691663 | pending | — | Prior review status unavailable. |
-| 2491298931678307 | pending | — | Prior review status unavailable. |
-| 2491331208341746 | pending | — | Prior review status unavailable. |
-| 2491703714971162 | pending | — | Prior review status unavailable. |
-| 2492646641543536 | pending | — | Prior review status unavailable. |
-| 2492711201537080 | pending | — | Prior review status unavailable. |
-| 2493126768162190 | pending | — | Prior review status unavailable. |
-| 2493769608097906 | pending | — | Prior review status unavailable. |
-| 2495235234618010 | pending | — | Prior review status unavailable. |
-| 2495418424599691 | pending | — | Prior review status unavailable. |
-| 2495428141265386 | pending | — | Prior review status unavailable. |
-| 2495429674598566 | pending | — | Prior review status unavailable. |
-| 2495552337919633 | pending | — | Prior review status unavailable. |
-| 2495685631239637 | pending | — | Prior review status unavailable. |
-| 2495976937877173 | pending | — | Prior review status unavailable. |
-| 2496408064500727 | pending | — | Prior review status unavailable. |
-| 2496908057784061 | pending | — | Prior review status unavailable. |
-| 2497134657761401 | pending | — | Prior review status unavailable. |
-| 2499199627554904 | pending | — | Prior review status unavailable. |
-| 2499455934195940 | pending | — | Prior review status unavailable. |
-| 2499638714177662 | pending | — | Prior review status unavailable. |
-| 2499661757508691 | pending | — | Prior review status unavailable. |
-| 2499688147506052 | pending | — | Prior review status unavailable. |
-| 2499739137500953 | pending | — | Prior review status unavailable. |
-| 2499857180822482 | pending | — | Prior review status unavailable. |
-| 2499870687487798 | pending | — | Prior review status unavailable. |
-| 2499891864152347 | pending | — | Prior review status unavailable. |
-| 2500025950805605 | pending | — | Prior review status unavailable. |
-| 2500325610775639 | pending | — | Prior review status unavailable. |
-| 2500447870763413 | pending | — | Prior review status unavailable. |
-| 2500455887429278 | pending | — | Prior review status unavailable. |
-| 2500655120742688 | pending | — | Prior review status unavailable. |
-| 2501024900705710 | pending | — | Prior review status unavailable. |
-| 2501041457370721 | pending | — | Prior review status unavailable. |
-| 2501286694012864 | pending | — | Prior review status unavailable. |
-| 2501429440665256 | pending | — | Prior review status unavailable. |
-| 2502120187262848 | pending | — | Prior review status unavailable. |
-| 2502816640526536 | pending | — | Prior review status unavailable. |
-| 2502835527191314 | pending | — | Prior review status unavailable. |
-| 2504214607053406 | pending | — | Prior review status unavailable. |
-| 2504215727053294 | pending | — | Prior review status unavailable. |
-| 2504219770386223 | pending | — | Prior review status unavailable. |
-| 2504246797050187 | pending | — | Prior review status unavailable. |
-| 2504250657049801 | pending | — | Prior review status unavailable. |
-| 2504412493700284 | pending | — | Prior review status unavailable. |
-| 2504903636984503 | pending | — | Prior review status unavailable. |
-| 2504915773649956 | pending | — | Prior review status unavailable. |
-| 2504992436975623 | pending | — | Prior review status unavailable. |
-| 2505243956950471 | pending | — | Prior review status unavailable. |
-| 2505250546949812 | pending | — | Prior review status unavailable. |
-| 2505570766917790 | pending | — | Prior review status unavailable. |
-| 2505584833583050 | pending | — | Prior review status unavailable. |
-| 2505904210217779 | pending | — | Prior review status unavailable. |
-| 2505974660210734 | pending | — | Prior review status unavailable. |
-| 2506193800188820 | pending | — | Prior review status unavailable. |
-| 2506730440135156 | pending | — | Prior review status unavailable. |
-| 2507040493437484 | pending | — | Prior review status unavailable. |
-| 2507460406728826 | pending | — | Prior review status unavailable. |
-| 2507615236713343 | pending | — | Prior review status unavailable. |
-| 2507624380045762 | pending | — | Prior review status unavailable. |
-| 2508224109985789 | pending | — | Prior review status unavailable. |
-| 2509400266534840 | pending | — | Prior review status unavailable. |
-| 2509852409822959 | pending | — | Prior review status unavailable. |
-| 2510209666453900 | pending | — | Prior review status unavailable. |
-| 2510341059774094 | pending | — | Prior review status unavailable. |
-| 2510505263091007 | pending | — | Prior review status unavailable. |
-| 2511098479698352 | pending | — | Prior review status unavailable. |
-| 2511100433031490 | pending | — | Prior review status unavailable. |
-| 2511659829642217 | pending | — | Prior review status unavailable. |
-| 2511931102948423 | pending | — | Prior review status unavailable. |
-| 2512185652922968 | pending | — | Prior review status unavailable. |
-| 2513181449490055 | pending | — | Prior review status unavailable. |
-| 2513418332799700 | pending | — | Prior review status unavailable. |
-| 2513584052783128 | pending | — | Prior review status unavailable. |
-| 2514106276064239 | pending | — | Prior review status unavailable. |
-| 2514350446039822 | pending | — | Prior review status unavailable. |
-| 2514631452678388 | pending | — | Prior review status unavailable. |
-| 2514690716005795 | pending | — | Prior review status unavailable. |
-| 2514960232645510 | pending | — | Prior review status unavailable. |
-| 2514989082642625 | pending | — | Prior review status unavailable. |
-| 2515123219295878 | pending | — | Prior review status unavailable. |
-| 2515975522543981 | pending | — | Prior review status unavailable. |
-| 2516159689192231 | pending | — | Prior review status unavailable. |
-| 2516206125854254 | pending | — | Prior review status unavailable. |
-| 2516422159165984 | pending | — | Prior review status unavailable. |
-| 2516657115809155 | pending | — | Prior review status unavailable. |
-| 2516729262468607 | pending | — | Prior review status unavailable. |
-| 2516892102452323 | pending | — | Prior review status unavailable. |
-| 2517214152420118 | pending | — | Prior review status unavailable. |
-| 2517310149077185 | pending | — | Prior review status unavailable. |
-| 2517373565737510 | pending | — | Prior review status unavailable. |
-| 2517581875716679 | pending | — | Prior review status unavailable. |
-| 2517634365711430 | pending | — | Prior review status unavailable. |
-| 2517674865707380 | pending | — | Prior review status unavailable. |
-| 2517763949031805 | pending | — | Prior review status unavailable. |
-| 2519151062226427 | pending | — | Prior review status unavailable. |
-| 2519670318841168 | pending | — | Prior review status unavailable. |
-| 2519941122147421 | pending | — | Prior review status unavailable. |
-| 2519996422141891 | pending | — | Prior review status unavailable. |
-| 2520124782129055 | pending | — | Prior review status unavailable. |
-| 2520408348767365 | pending | — | Prior review status unavailable. |
-| 2520903808717819 | pending | — | Prior review status unavailable. |
-| 2521176988690501 | pending | — | Prior review status unavailable. |
-| 2521226985352168 | pending | — | Prior review status unavailable. |
-| 2521242362017297 | pending | — | Prior review status unavailable. |
-| 2521319958676204 | pending | — | Prior review status unavailable. |
-| 2521414942000039 | pending | — | Prior review status unavailable. |
-| 2523304718477728 | pending | — | Prior review status unavailable. |
-| 2523316818476518 | pending | — | Prior review status unavailable. |
-| 2526259061515627 | pending | — | Prior review status unavailable. |
-| 2526611054813761 | pending | — | Prior review status unavailable. |
-| 2526635188144681 | pending | — | Prior review status unavailable. |
-| 2526708664804000 | pending | — | Prior review status unavailable. |
-| 2526843764790490 | pending | — | Prior review status unavailable. |
-| 2527113548096845 | pending | — | Prior review status unavailable. |
-| 2527269411414592 | pending | — | Prior review status unavailable. |
-| 2527981554676711 | pending | — | Prior review status unavailable. |
-| 2528159747992225 | pending | — | Prior review status unavailable. |
-| 2528331024641764 | pending | — | Prior review status unavailable. |
-| 2528546964620170 | pending | — | Prior review status unavailable. |
-| 2529185001223033 | pending | — | Prior review status unavailable. |
-| 2529302587877941 | pending | — | Prior review status unavailable. |
-| 2530158941125639 | pending | — | Prior review status unavailable. |
-| 2530451404429726 | pending | — | Prior review status unavailable. |
-| 2531147377693462 | pending | — | Prior review status unavailable. |
-| 2531156527692547 | pending | — | Prior review status unavailable. |
-| 2532097234265143 | pending | — | Prior review status unavailable. |
-| 2532147797593420 | pending | — | Prior review status unavailable. |
-| 2532318694242997 | pending | — | Prior review status unavailable. |
-| 2532920044182862 | pending | — | Prior review status unavailable. |
-| 2532924360849097 | pending | — | Prior review status unavailable. |
-| 2533031264171740 | pending | — | Prior review status unavailable. |
-| 2533087017499498 | pending | — | Prior review status unavailable. |
-| 2533932994081567 | pending | — | Prior review status unavailable. |
-| 2534057540735779 | pending | — | Prior review status unavailable. |
-| 2534861450655388 | pending | — | Prior review status unavailable. |
-| 2535044030637130 | pending | — | Prior review status unavailable. |
-| 2536463203828546 | pending | — | Prior review status unavailable. |
-| 2536532343821632 | pending | — | Prior review status unavailable. |
-| 2536699943804872 | pending | — | Prior review status unavailable. |
-| 2537247217083478 | pending | — | Prior review status unavailable. |
-| 2537312247076975 | pending | — | Prior review status unavailable. |
-| 2537508483724018 | pending | — | Prior review status unavailable. |
-| 2537744123700454 | pending | — | Prior review status unavailable. |
-| 2538229023651964 | pending | — | Prior review status unavailable. |
-| 2538444636963736 | pending | — | Prior review status unavailable. |
-| 2539325760208957 | pending | — | Prior review status unavailable. |
-| 2539686083506258 | pending | — | Prior review status unavailable. |
-| 2540588923415974 | pending | — | Prior review status unavailable. |
-| 2540795523395314 | pending | — | Prior review status unavailable. |
-| 2541548456653354 | pending | — | Prior review status unavailable. |
-| 2543113856496814 | pending | — | Prior review status unavailable. |
-| 2543329486475251 | pending | — | Prior review status unavailable. |
-| 2543399503134916 | pending | — | Prior review status unavailable. |
-| 2544246466383553 | pending | — | Prior review status unavailable. |
-| 2544389299702603 | pending | — | Prior review status unavailable. |
-| 2544575883017278 | pending | — | Prior review status unavailable. |
-| 2545885392886327 | pending | — | Prior review status unavailable. |
-| 2547125186095681 | pending | — | Prior review status unavailable. |
+| 2486898675451666 | reviewed | e1ae820f0b84d00b450343875171d1d406bbf945b05c34fdbd4e0c07045f9bf5 | Seat height question; commenter gives 94 cm to handlebars, not clearly the requested measurement. Photo inspected; provenance and coverage uncertain; background capture unrelated. |
+| 2486929278781939 | reviewed | e9e43ff483fbc7fce5dd9790320fe1f0f20e71e43a8ba230c8989d643b7a140a | Question about changing front fork; no failure or answer stated. Background capture unrelated; comments and attachment coverage uncertain. |
+| 2487135812094619 | reviewed | 3d1f7df2547da34a9d020dc634b5f68ff73828e1d0e3c2d7b374864d667a180a | Question about tyre pressure in psi; no answer or fault stated. Background capture unrelated; comments and attachment coverage uncertain. |
+| 2487165998758267 | reviewed | 6d0b33d1fd82ae121b7da425d327f332a5b0db4a0e834d51f83b5a1a35e79972 | Kickstand folded and parked scooter fell, breaking lever; commenter separately reports head-on collision and bent handlebar, no cause specified. Another reports same kickstand problem. Images inspected; coverage uncertain. |
+| 2487317978743069 | reviewed | 0064482ac9c6ce2950b0e015712981e20099432d451a4d92afb37a4707dc98a4 | Author reports stopped working after 4 km and alleges warranty repair delay; cause and resolution not identified. Background capture unrelated; attachment coverage uncertain. |
+| 2487529225388611 | reviewed | 859ef2d367307f5a9d05ffd38652bfd0902867b55d6c39d287c34dab0e04b13b | Author reports 25+ GPS miles versus 42 displayed and depleted battery; another commenter claims distance overcount, unverified. Rack did not fit another commenter; video unavailable, images inspected, coverage uncertain. |
+| 2487875402020660 | reviewed | 3f07635cc72d3bbd4bb8671904d8b0f18128cffe627b7111761d259b60de1242 | Author reports front brake pad clicking; commenters offer unconfirmed pad inspection, cleaning or replacement suggestions. Video unavailable, coverage uncertain. |
+| 2488157571992443 | reviewed | 35e3ba16cf4aa6b863e838d785748d9bc2c8c86bcaf31918c82bd2182705892a | Range reports differ, including near 50 km and lower estimates; insurance and legality claims conflict and are unverified. Commenter mentions unspecified resolved problems; hypothetical accidents only. Some replies absent from recheck, coverage uncertain. |
+| 2488436188631248 | reviewed | ed5f820ad043fbfbcb18bb5a9873ce72c200ebba50010a9253c00c01e86ca1fe | Video review promotion; no fault or comments in visible text. Video unavailable; background capture unrelated and attachment coverage uncertain. |
+| 2489058645235669 | reviewed | f377b7c345b64f2a6bcdb5e768fed9357ef73809b89d0d23a993234d5ec8705c | Positive modification and console mounting explanation; no explicit fault. Two comment images inspected, video unavailable and coverage uncertain. |
+| 2490351418439725 | reviewed | 752251b51840bb579c4fc94571e15bb33bc238362b57163a4732694aca12a595 | Handlebar modification advice and before/after images; compatibility claims unverified, no explicit fault. Coverage uncertain. |
+| 2490492985092235 | reviewed | 02728f0c458ee3f7b85397d4e2cf726270856d5e0e7b313ccfab70039b0a0027 | Author asks where to buy brake pads; commenter suggests motorcycle shop and claims compatibility without verification. No confirmed sourcing outcome; coverage uncertain. |
+| 2490811328393734 | reviewed | 0695a5a939b1f7094ce0b9a0b6f2736e74fe8bf05eda01deec3cab390a45793b | Powered on but will not accelerate, speed and mode controls unresponsive; park mode, connectors and throttle proposed, no confirmed cause or repair. Rechecks partial; coverage uncertain. |
+| 2491165371691663 | reviewed | 4ea238ebc0d568c4aa9ebb414113032549dfe3c9fc3a03a4cc0d4756d4eb3bea | Saddlebags fitted under seat; commenter repeats own rack fit issue from 2487529225388611. Images inspected; one of 18 indicated comments missing from recheck, coverage uncertain. |
+| 2491298931678307 | reviewed | c8f04652a0c49f66b9e88ca370d9de922d48a0f584c981bfc4b6fbd57cabd0e3 | Brake pad sourcing question; motorcycle shop suggested, no confirmed compatible part. Background unrelated; coverage uncertain. |
+| 2491331208341746 | reviewed | 754489df7e21cc02ced145944acd453f1e73968e01325810f1b873285870d56b | Charging without mains question; commenter reports solar power station use and others suggest portable station or extension. Product image inspected; actual outcome for author unknown. |
+| 2491703714971162 | reviewed | 78800bd09499e827244f2ec8fd7deb41256b76b851ad29537eb244159650fb9a | Successful hill test; commenter reports about 30 km battery range and another recommends changing shock, without reporting frame damage. Video unavailable; coverage uncertain. |
+| 2492646641543536 | reviewed | 528e1abff4048bbc56f458ece5065df496eebfc8c4878223a8f5a4283953a1b0 | Sunny outing, no explicit fault or comments. Two images inspected; video unavailable, coverage uncertain. |
+| 2492711201537080 | reviewed | cc279b7eea0e6f00303e4cbaecc37d753a1ff8599e4273bb91833634135e0ba1 | Swingarm extension modification discussed, no explicit fault. Image inspected; structural suitability unverified, coverage uncertain. |
+| 2493126768162190 | reviewed | 5c0a80d65de0eb693802524f05d60632161fbfa9da42649c568ceaf113225d86 | Original French reports clunking weak rear suspension, hard seat and estimated 20-25 km range; another owner dissatisfied with shock. Shock replacement suggested, dimensions disputed and outcome unconfirmed; images inspected, coverage uncertain. |
+| 2493769608097906 | reviewed | 4c9f5bfaa569718f78591b9cc2a7f47f52ab09650ca97beb48239d8e3b7c68ae | US availability question; seller account says not yet at the time. No fault stated; linked video unexamined, coverage uncertain. |
+| 2495235234618010 | reviewed | 5df9477e2d7bd2a6e1044e2ac1aa1140c9312c35dd66b7e56706d00511b9fb17 | Author cannot find front brake disc available to Greece; commenter suggests shop or candidate part, fit and outcome unverified. Disc photo and product screenshots inspected; one of ten comments not captured in recheck. |
+| 2495418424599691 | reviewed | 2899cec1860b2c7c107990d24a84ec1e39e39134636ddbeffab2c0907225bc8f | Asks about sourcing pads rather than entire brake assembly; commenter asserts standard pads may fit, unverified. Tyre image inspected; no brake defect stated, coverage uncertain. |
+| 2495428141265386 | reviewed | 01b004f226da14a4a445c6622e7bddb47583882c8eadbddc1c1e9e2537993ebe | Night ride video shared; no fault or comment visible. Video unavailable, unrelated background capture and attachment coverage uncertain. |
+| 2495429674598566 | reviewed | daaecc532ac91d3b4f193da5e7456476736c63fcd9354eab73237f9cbade005d | Video link only in visible capture; no fault or comments transcribed. Video unavailable, original text and attachment coverage uncertain. |
+| 2495552337919633 | reviewed | de626000b3ab115daa0fa1d970e5daaa8119f38edc34854c5be18e1fb0fa5fe0 | Author reports clunk on rough paths; shock replacement proposed by commenter, no confirmed damage or repair. Three images inspected; three replies hidden in recheck but earlier capture available, coverage uncertain. |
+| 2495685631239637 | reviewed | 87db0380f80c5e5b574d1399dc0ad1463d708496301801b4d1f01143e32b4480 | Controller conversion brake-light voltage compatibility question; step-down suggested, wiring and result unconfirmed. No original equipment failure established; coverage uncertain. |
+| 2495976937877173 | reviewed | 06c637417f44b0a4892a6e14ff04df372d45e7a8c1badc2e16835608c151423e | Author reports 35 displayed vs 25 actual and says resetting connections restored headlight and unspecified issue; Xavier repeats mileage report from 2487529225388611. Other speed reports differ; coverage uncertain. |
+| 2496408064500727 | reviewed | 91c5f2fe886be65b41f4c06b33324d09f402964b540b6240e4d6f8bd7f873955 | Author agrees odometer overstates mileage by about 30 percent; no independent verification or repair. Image inspected; coverage uncertain. |
+| 2496908057784061 | reviewed | 69210fecf1f5780f305246b4668c9f923c6b9ecdc2f17cf18cc5f84efdd2db82 | Outing caption, no visible comments or problem; video unavailable and attachment coverage uncertain. |
+| 2497134657761401 | reviewed | 46982d186bd263dff129d0f71ac576582347302c763c577bdb14b6e94094579f | Purchase location question, no visible answer or fault; background capture unrelated and attachment coverage uncertain. |
+| 2499199627554904 | reviewed | 66821058b24e3e788499b5f4fb91038a233bace38665ad69e553c1fefba1efa3 | Rear shock replacement reference question; commenter plans purchase, no confirmed installation or fault. Product screenshot inspected; compatibility and coverage uncertain. |
+| 2499455934195940 | reviewed | d86626d89368a6b7d078bb7020cdb967017bca6160407a654b065d8676feeb50 | Author reports insurer refused vehicle due to seat; other members report differing insurers and prices, legality and coverage unverified. Attachment coverage uncertain. |
+| 2499638714177662 | reviewed | cb58294c7952235b467c0d8b7fe5c2c8fac2485fbdbe017a513f34188e452c7b | Author describes suspension modifications for comfort and criticizes original battery capacity; construction and compatibility assertions unverified. Videos unavailable; attachment coverage uncertain. |
+| 2499661757508691 | reviewed | 34bbd21af6cb78d3fbb775ddf4ebc911297ddd8cead66c943c0265635e3e0daf | Photo of two parked vehicles and caption; no explicit issue or visible comments. Image inspected, coverage uncertain. |
+| 2499688147506052 | reviewed | 1a39dca25b3140cbdf3e4d098f8ebb484585c554052f31f3706909ca9c23a5be | Auxiliary lights modification; no explicit failure or visible comments. Two videos unavailable; coverage uncertain. |
+| 2499739137500953 | reviewed | cb8794be87b57eaa84bd03cbefa736e33d1bb8ef7f3b133a89fb526ff3418982 | Greeting, paint question and positive comments; no problem reported. Two images inspected; source and coverage uncertain. |
+| 2499857180822482 | reviewed | b7029e8cc378fa7115007788d23fae17cb6604d0507c1f35cc3cb5b138d49155 | Controller conversion and lights compatibility question; commenter claims independence, no verified outcome or fault. Attachment coverage uncertain. |
+| 2499870687487798 | reviewed | e5c6216bc279e672b5cffdaa05d4c0425d5d70e9c60e420aa8c7cea6e3eabb0d | Modification video and acknowledgement; no explicit failure in visible text. Video unavailable; coverage uncertain. |
+| 2499891864152347 | reviewed | fe2b60c7a9cdba743fe011cf2047bd168bff2236ae47764494007fcf4058bea8 | Outing and modified swingarm photo; no explicit problem or visible comments. Image inspected, coverage uncertain. |
+| 2500025950805605 | reviewed | eb43b73f39221f0aa0c99a013c85a783c9114d95070f2c9d5d2e0545c21f7fc0 | Speed question; Brandon and Sasa report speedometer discrepancies, latter repeats prior case and alleges other display and light wiring issues. Controller-limit theories conflict, modified setup no proven repair; video unavailable, image inspected, coverage uncertain. |
+| 2500325610775639 | reviewed | 7dc784750fb6be45122862c3feb55885f5dd5d81139440b0d24774aa1d5ea421 | Pothole hit at speed with passenger; rim visibly bent, no fall alleged. Commenter reports own similar rim incident and past repair; hammering suggested but author outcome unknown. Image inspected, coverage uncertain. |
+| 2500447870763413 | reviewed | 0f8704b4acc916c1dd3ffe47912d38f2604fd1633da708b6bdfc7f67359bc752 | Same author's brake disc sourcing problem as 2495235234618010; dimensions and candidate sellers mentioned, fit not confirmed. Two images inspected; coverage uncertain. |
+| 2500455887429278 | reviewed | ed39e92a907820d9c8b21b153f155d1e6a011e4d816a7e354ded2cbe6a7ab8fa | Tyre replacement and sizing question; fit claims disputed or unverified, no explicit tyre failure. Order screenshot inspected, coverage uncertain. |
+| 2500655120742688 | reviewed | e4a0b9be5b5380082560eddb5460f6ab289bee0dccc1dc9451914c12b3c506c8 | Author cannot find tyres, discs and pads; seller account supplies front and rear disc links only, actual fit and stock unverified. Coverage uncertain. |
+| 2501024900705710 | reviewed | 490d53d7cba62363930f9269169be04b112d3f839de5c36b01cc3dbce6172360 | Author later reports a small fork or steering bearing problem and plans repair; no cause or completed fix stated. Image inspected, coverage uncertain. |
+| 2501041457370721 | reviewed | 22c3f0414711ca4dfd27a488aca2dcbca03c1c92b5a67ea3fc7a51e31bc13074 | Marketplace promotion only; no fault/comments. Background capture unrelated, attachments uncertain. |
+| 2501286694012864 | reviewed | afc74430c046f7e0fb0fd2e600daf6e58a48e2900ab98e866cd467d868a00475 | No original text/comments captured; photo inspection needed; capture insufficient to infer a case. |
+| 2501429440665256 | reviewed | 349131be9aa620f071f4a518a9b9db3f7d719ef12e815bff8f0df7c9088d0e54 | Controller upgrade compatibility question; commenters give conflicting unverified power and motor failure claims. No confirmed repair; coverage uncertain. |
+| 2502120187262848 | reviewed | 74ce591062e8fa2bcd83cc9860746630e7afadcdaed33bea2b46455a08230d6b | Switch use question; late commenter reports breaker/switch broke and suggests replacement. Another repeats display complaint from earlier posts. Comment truncation and coverage limitations. |
+| 2502816640526536 | reviewed | d5dfdac1a4133ad25b3ea6e42b3a84d1ea1f72e31f19004af218684e5f90f790 | Original French post asks where to buy a fork oil seal because one is leaking; commenter advises a cycle shop. One comment reported, recheck repeats same; no image. Partial capture, reply hierarchy and attachment scope unverified. |
+| 2502835527191314 | reviewed | 7ba781522f408eef4da02994b1115999ef3c72071b21e879161446dd7a70ec85 | Author asks about 60 V battery/controller speed. Comments describe different modified 72 V and 60 V setups and claimed speeds/current; incompatible configurations and unverified claims, not a repair case. 12 comments captured; hierarchy and attachments uncertain. |
+| 2504214607053406 | reviewed | 8202497dad7cdf00f7d2b430a90af3c639755a6b857ff75bbb877cefd42229f4 | Inspected original capture and visible comments/replies; only explicitly captured content considered. Supplementary recheck includes interface noise; preserve limitations as recorded in source. |
+| 2504215727053294 | reviewed | 7ad26dcc4cac18c470a19c22ceed7aa87ae0abe4ca2d070503369ddb77300baa | Inspected original capture and visible comments/replies; only explicitly captured content considered. Supplementary recheck includes interface noise; preserve limitations as recorded in source. |
+| 2504219770386223 | reviewed | a06dfce2e86183c0213cf3719ccecbb3a5363745a29be7c3efe72a0397270e92 | Inspected original capture, visible comments/replies and three local image files; image evidence must stay limited to what the saved images show. Supplementary capture is unverified. |
+| 2504246797050187 | reviewed | b78aaa21855b03a76f23ea01fbdf5a08c793703f072e15f495b70bafdf691bb7 | Inspected original capture and visible comments/replies. Supplementary recheck includes interface noise; retain source limitations. |
+| 2504250657049801 | reviewed | 217dd82b01c15e030f5223ef4e7c513c16bca22a4e0e45e613c0f5e1b148bd28 | Inspected original capture and visible comments/replies. Supplementary recheck includes interface noise; retain source limitations. |
+| 2504412493700284 | reviewed | 7dd61d18d0cff698a4c284a58e054ca7967f2aa8fdb14111f2e2a7a8184b77c5 | Inspected original capture, comments/replies and three local image files. Do not infer details beyond visible content; supplementary capture and attachment completeness uncertain. |
+| 2504903636984503 | reviewed | 042a7e4350103a5f2bfe740d289af556d0ccab81d60d37ab0e48f1b82008dfba | Inspected full source sections, supplementary capture, comments/replies and one image file; distinguish explicit symptoms from questions and retain all source limitations. |
+| 2504915773649956 | reviewed | 8d219a657de1ec5ef1585f40e55bb12575256b01b09daad1a3e9cc2603b863cc | Inspected original capture and visible comments/replies; sparse material and supplementary capture contain interface noise. No inference beyond captured text. |
+| 2504992436975623 | reviewed | d0b8dc2f090ee64205ef2b37bff3a04b3291381889ed7667fbd1e1d15644eddd | Inspected original capture, nine visible comments including trailer hitch fabrication and questions, supplementary capture and one image. 48 reactions and 9 comments indicated; no explicit failure in visible text. |
+| 2505243956950471 | reviewed | 0ec2aad761be5221b831ae3048560db3561648020ff761711332394cf702bf9f | Author asks about voltage tolerance for display lighting inputs and says lights worked at 12 V except horn in own test; replies do not answer input voltage, instead speculate on indicator function. Three comments captured; unresolved, attachment scope uncertain. |
+| 2505250546949812 | reviewed | 7b8769cc06be15a36bf1c3a1611f5c6b3d0e14da7d2c959bd37fba4c69cdfe0b | Long controller/battery discussion includes 60 V speed reports and conflicting views on current limits/BMS. A commenter later reports motor power cutting out on a different modified vehicle/setup; workaround unconfirmed. Three images present, not evidence of a confirmed fix; comments partial. |
+| 2505570766917790 | reviewed | de1abaf53110a020556ec869cd9bb1f846362694bf2ff86a08e3510a567714f5 | Night ride caption and unavailable video; no comments displayed and no issue identified from text. Video not viewed. |
+| 2505584833583050 | reviewed | 5768f0c2f330855de53a8b12edce93c6d0c124c0b7946e7337eb5ec287104df4 | “One more” video post; one commenter asks which variant, author answers DX5. No fault in visible text; video unavailable. |
+| 2505904210217779 | reviewed | f0833f35dbeb4e4a06b100d81fa172cdb494d6aa044a7381f5aa19c47bce5596 | French mud ride caption; comment asks whether suspension is too stiff, no answer. Video unavailable and unexamined. |
+| 2505974660210734 | reviewed | 3c89e876045e83ecc7d754e2fcee01b6851eda67041f935327e42dc029f8f7ef | French charging-port question; commenters say either port works and two chargers are faster; another asks about 4-pin charger. Claims unverified, no images. |
+| 2506193800188820 | reviewed | d4b0d662e1e387f5f371aedce89b73709dbc1f9eb0ae30e3a0f58c8d48bcd26d | Question about controller swap and tuning for speed/acceleration; one commenter claims 50 mph and more torque with altered switches/throttle. No independently verified result; two unrelated background captures, no evidence. |
+| 2506730440135156 | reviewed | 5917d65aad90adbe8f4c642bca6f6be093b386449bda5c510d8666d05ae2338b | French thread asks about police checks/registration/insurance; members give conflicting and unverified claims, including reported experiences. This is a legal/compliance discussion, not a mechanical fault. 25 comments indicated; capture may be partial, no media. |
+| 2507040493437484 | reviewed | fa6ac7b18ffa7db260a5469fdd6130889fb5ec7a62c7ea191f27574c68495d97 | “Let’s ride!” caption; no comments. Two images in archive, contents/provenance not examined in this review; no issue identifiable from text. |
+| 2507460406728826 | reviewed | efe07204331ccb66fb14221c38eca23b0a9eb15fb2f3e5d2d100bcec06cf1b41 | Author reports mower-like noise after about 44 miles and suspects warped rotor due to weather. Comments report a separate intermittent throttle/brake-control case, including motor continuing while lever braking, with advice to stop use/contact seller or replace controller; other replies attribute rotor to impact. No confirmed diagnosis or repair. Video unavailable. |
+| 2507615236713343 | reviewed | ce01160ef381296a4dba4959221fde0683df9e760acddffa32e4c2581966fc8c | Offers used controller/display/handlebars; no fault described. No comments or images. |
+| 2507624380045762 | reviewed | cc4e0d4f275157d0a117e8dbf86235ceace04c86fb02f19f02034f04c5bc0d25 | Asks for fork replacement recommendations; one location-only comment, no substantive answer. No fault explicitly reported; no images. |
+| 2508224109985789 | reviewed | d4c9ec14976bfc94c0b8dceac04cbb52e65068053f7bf92a928052afd4eab153 | Asks about carrying two scooters on a rack; no comments. One image present but not examined; no malfunction reported. |
+| 2509400266534840 | reviewed | b5b9ee0d31627855a7ea79a1a5cc358a350f2f85866b751c8c54b7a444c7164f | Author reports brake lever clamp screws too tight to fit handlebars; WD-40/glove suggested, author says local shop resolved it. Two comments visible; partial capture, attachment scope uncertain. |
+| 2509852409822959 | reviewed | f4c06190f7c23686cdbf6a5305e5d917ffb3db4d4aa322c8db2c5dfc35d784ae | French author says scooter powers/display appears on but throttle does not respond; also reports no lights/horn. Replies suggest connectors, parking/brake state, or throttle wiring; author says connectors checked, no confirmed resolution. 23 comments indicated; partial hierarchy; two images present. |
+| 2510209666453900 | reviewed | b097247f59d0d6d47440af75175516ac8fb9e5f1451abfa34b2f406fc2346a63 | Seat modification post; author confirms modifications and shares product link. No explicit fault. Comments discuss fitment; attachments include image and background captures, exact completeness uncertain. |
+| 2510341059774094 | reviewed | 4805d11653c6aff6a16d01371fd19994da36c77270b333e413a37af6e56921ea | French author reports display state and inability to select gears or operate lights/indicators. Comment suggests reseating connectors or contacting seller; outcome not shown. Four comments indicated; image captures present, uncertain interpretation. |
+| 2510505263091007 | reviewed | 376228a8034241d670ae01b570406b4d91f9ddf092e80f56b6f69bdb269401e9 | Stretch modification; author says rear wheel bounced on turns while slowing with stock shocks, resolved after fitting better shocks. Further comments ask tyre size; image present. Media context partly unavailable. |
+| 2511098479698352 | reviewed | a3bc58386177b8f18324e9cd3c69eaa122e4c26ba6a3fff91607a379abebc095 | French ride video caption and comments; author says returned safely; no specific failure. Video unavailable and unexamined; comments incomplete. |
+| 2511100433031490 | reviewed | 65c286056dbee9f3ebd27ddf3d4f430c62c2622a14ca9f72a00a289cd7213fd2 | Short French caption only; no comments or identifiable problem in capture. One image not examined, so media content and relevance unknown. |
+| 2511659829642217 | reviewed | d8542fb7e64ee415f3bea9a7df54d10bdd112175445fc51219a0867bdd5fbf81 | Modification discussion: controller/battery, tail light, display; commenter reports bouncing on bumps at their weight and has not adjusted shocks. Multiple modified configurations and claims; image unexamined, comments partial. |
+| 2511931102948423 | reviewed | 2709626b67ac647e15a72545c6583880a83d48728ab0d20f522c7144a6afaf05 | Question whether scooter can wheelie; replies discuss power and technique, not a defect or repair. No image; comment completeness uncertain. |
+| 2512185652922968 | reviewed | 400a5bf0e39f80e5a2bcf5beb2dfc309d90fe28122203abc35a6a12a5e9b11d6 | Tail-light wiring discussion: commenter could not power light via red/black; another says stock light voltage and describes a wiring scheme for a different setup. Wiring compatibility and outcome unresolved; video unavailable. |
+| 2513181449490055 | reviewed | 154042ab808b82fb5eed21b3f31f55af772b7e3da782675876736ae29cbee98e | Shock length question; commenters give conflicting 200/215 mm before one states 8.5 in/215.9 mm. Different shock options discussed; one reports ordered replacement shock with 8 mm mounts despite 10 mm claim. No outcome for author; photos/background captures uncertain. |
+| 2513418332799700 | reviewed | 7306aac98f1b624002ec26e69fa4d32c7c32e16988bbd1fad1a72615580c96b3 | Spanish/English author reports clicking and slight front fork/headset play under front braking. Comment suggests loosening upper clamp, tightening head bolt, then retightening clamp; repair outcome unknown. Two images present, interpretation limited to captured evidence. |
+| 2513584052783128 | reviewed | 00628f2bcd3e5ed45a2662e4fa8e42676a7c72e65a08f9554da5bb0ca6fd68db | Author reports scooter shut down after a small bump and would not power on; charger light turns red. Replies suggest breaker or battery/seat connections; no outcome in capture. Two comments, no attachments. |
+| 2514106276064239 | reviewed | 784959f485be8b3755c33ef673d287d3581aa0864dca9263e29d0a18610aafab | Asks about adding a second battery/storage and controller location; replies give differing proposed locations and examples from different setups. No fault reported; one unrelated background capture. |
+| 2514350446039822 | reviewed | 3deacee13d6427a3a70bf9c40bae50fac44c784ceb69f76779155b002af99c17 | French question about riding position/handlebar height and carrying passenger; replies give subjective opinions and unverified accessory possibilities. No explicit fault; background capture only. |
+| 2514631452678388 | reviewed | 4904ec4a0b116f6c542c9f35274231c7046bbbeab43ea6145d3bbb74ac066219 | Controller installation/modification discussion; author says stock speed may not change much with controller alone, battery planned for later. Fitment and claims unverified; images present but not examined. |
+| 2514690716005795 | reviewed | cd4b4fb1d7f22fe6fb88f5f6086a20995ecba7dacad284ce27ef013ef4d260a4 | Caption says a modified rear fender; no comments. Five images in archive, not reviewed for technical issue; no failure in text. |
+| 2514960232645510 | reviewed | 6a5bb1d3b1b3d2dd2a7433e4d8629eea1674d5bf6ad22c3490e94ce8d4993825 | Author fitted full-size controller in compartment; peers discuss mini controller and heat. Multiple battery/controller configurations and claims; no failure reported. Three background captures; comments partial. |
+| 2514989082642625 | reviewed | 03a75deb8bc2d89f16da3c076635c527a7ab5e05a9db4026dae825e3ced02323 | Author asks where to order replacement motor; replies point to seller site but author says out of stock. No diagnosis or repair; no media. |
+| 2515123219295878 | reviewed | 59f41f78aa2f9f4bb55e08136338cccfc75e3df0fe764341e775fcefc818825a | Asks if motor can be run with different nominal voltage. Replies conflict on exact motor and acceleration; no verified compatibility outcome. No media. |
+| 2515975522543981 | reviewed | 2092bd10a937fd51363ebbae50610e9332ff0af6f651fe695deea4459c3ee404 | Video montage only; no comments. Four local images; video and images not interpreted in this text-based review. No explicit issue. |
+| 2516159689192231 | reviewed | 84671cb6c9b0e2b4fb44b7bf913483de2de5b21916eacc372d26f2ed8e39f7fa | Author ordered motor and asks tyre size; commenters provide 10-inch/3.00x10 figures. No fault or verified fitment; one image in archive. |
+| 2516206125854254 | reviewed | ca715daad067a103d830e7a61f7d072d7e20f87290c87855259be8ec4266a98e | Asks if a purchased NFC card could unlock the vehicle; comments contradict whether keys work across vehicles and give security suggestions. Claims unverified; no images. |
+| 2516422159165984 | reviewed | bacb905f5793e61eefe10310a8eece5a12796d53a39391f1ae20585805e7a622 | Long modification thread: riser stem improved author’s comfort and wiring length was adequate; other members ask about seats and report seat discomfort improved with cushion. Separate fall mentioned by commenter without context; no causal link. Seven images/background captures, not all interpretable. |
+| 2516657115809155 | reviewed | 2101a47517c4a1bc465b9d7d9c48aa856cb0c3590b9a43011c8ed2eb2ccaa271 | Seat rebuilding discussion: author plans wider metal base and taller upholstery; commenters discuss foam/cover and advise against adding another spring. Eight image/background files, not independently interpreted; modifications are plans, no confirmed problem. |
+| 2516729262468607 | reviewed | 45be76fa29b972ba0fae71c2a9046d32e2d34ae809ba371f9cf09c4d82eb13c1 | Footrest installation post; author says parts are not direct fit but can be adapted; replies provide product links and confirm not a direct fit. Two images in archive. |
+| 2516892102452323 | reviewed | 14bf334e62c9d66d8d69d1c14854b5eeb0fa3ab66606d71b4288a293cca7aec5 | Unrelated video/shared card and political comment; no scooter issue identified. Video not viewed. |
+| 2517214152420118 | reviewed | 1f383c734f7583abe5ba8960f5e37737237784c42a1a32395da6d387750e4fe9 | Asks for central storage box recommendations; replies offer an idea but fitment unresolved. One background capture and one image, not examined. |
+| 2517310149077185 | reviewed | 5d8c17b375e1a192e9905216250301d0ed8db22134c2017fa48a3656418ee64e | Asks whether controller can set speed/current limits and regenerative braking by mode; commenters say yes, no independent confirmation or fault report. |
+| 2517373565737510 | reviewed | 548ede1e37cba63f78375b63a8d4a22cdf3de377139da35734260ddf84ddbfb2 | French question about adding passenger seat/rack; comments describe a homemade child seat/footrest with zip ties, explicitly called fragile. Fitment and safety are unverified; image/background captures present. |
+| 2517581875716679 | reviewed | db808092fb60f2474e107a3b4f027c8257587b7885aedcf380c3bbb8d89b073b | French range question about 50 km ride at 25–30 km/h; one reply says possible but close to limit. Question only, no failure report. |
+| 2517634365711430 | reviewed | 49139c171070253ea0d2ab9843862b8fec244876231881b59f54916e6c2978d0 | French serial-number/insurance discussion. Commenters give conflicting insurance assertions, unverified. One background image; not a mechanical issue. |
+| 2517674865707380 | reviewed | 04174d830fd61b1f13ae40f6eea8501c6967f488f576b1249827bcc9192fac76 | Halloween night ride caption; no comments. Three images present, not examined; no explicit problem. |
+| 2517763949031805 | reviewed | 42e4be60c72f7795cf3d86ced5a8dfa951d538fdf76f0e5c498669f346151f95 | Author reports 500-mile milestone; comments dispute odometer accuracy, one says GPS comparison showed it was substantially off. Distinct explicit instrumentation accuracy allegation; image present, not examined. |
+| 2519151062226427 | reviewed | 7e540d06f878bb3443e6bf43f5cbe95f15986aa8745d16f41a8c388688076b68 | Portuguese post celebrates scooter arrival; comments discuss future modifications and speculative voltage/current capability. Three images/background files; no failure or verified compatibility. |
+| 2519670318841168 | reviewed | 8ecdbbb0344cc439ce7e4efef2d6bb877126523f7c0554ebdff591ea27105fb1 | Asks about adding luggage rack for backpack/helmet; one commenter says a proposed rack may fit, no installation confirmed. No fault or images. |
+| 2519941122147421 | reviewed | 45ce632af8d1d5fdf572abc73c59bae077146f6a95c0ee7654a0603261c877dc | Portuguese post asks where to obtain a replacement throttle; no comments, no confirmed failure details. |
+| 2519996422141891 | reviewed | decc7bb295e699561734a3f20f364dbe7df5650f3029bd2673ad66f029ddf63f | Author has difficulty removing side panel. Commenter gives clip/screw removal steps and reports repeated successful removal on their own scooter; author outcome not captured. One background image. |
+| 2520124782129055 | reviewed | 2c1892e34776a6deba9ede65e23a627665109a325efd857572ba83f00db244bc | French question asks tyre pressure for 100 kg rider; no comments. No malfunction reported. |
+| 2520408348767365 | reviewed | 03d2f19c8b2d81b1797a12d8c56aa3019ebb3f8e01235f294e2a1902de2f0678 | Author warns headlight controls burned at 60 V despite headlight rating; commenter recommends DC-DC step-down converter. Author says system initially worked; no repair outcome. Three comments shown, partial. |
+| 2520903808717819 | reviewed | 6221d4e06c169c6782d02c30630b78709d0d5295dadbbe3a3dd52eb76f0c92fb | “Let’s go” media post; comments identify bike rack model/capacity. One image present but not examined; no fault. |
+| 2521176988690501 | reviewed | 0349974a9484d3655f0b5920164e5b7c7842e1186221d25c6b0b147911ede462 | Media-only capture with no original text/comments. One image present but not examined; cannot infer issue or caption. |
+| 2521226985352168 | reviewed | dc33468317dd50f19fe1a31c966f74b0a482ffcf08b8eb54f2dd495b9933c643 | Asks whether size suits 5 ft 10 person; comments/filter not verified. Two background images, no issue established. |
+| 2521242362017297 | reviewed | 696c08166236cc773e90966d0447276ace8bcec6d0f74616cd2324c46ba73ad4 | Portuguese sale post due to desire for two-person model; under 150 km and under warranty. Five images present but not examined; no fault stated. |
+| 2521319958676204 | reviewed | 1b0cc2bfa9d869ddc730cb34870a122cb5cdd61dd72ac26bbea74db2c015028b | Asks if nominal 60 V battery can run original controller; one commenter says controller cuts out above 58.5 V and recommends 52 V max, but unverified. No observed outcome. |
+| 2521414942000039 | reviewed | c935948eb19346ea80953a59f0129b86ed5cde900e7ecbd24fef66b3016d6472 | Author reports switching rear shocks and shares seller link; no measured outcome. One image, nine comments indicated and six visible comment articles. |
+| 2523304718477728 | reviewed | 44d42a111f1787b131ce2abe27dfddae32854d378d30297ee57be6d6c4645367 | Video-based comparison thread; one owner reports front fork, brake disc and front wheel fit/finish problems on their unit, plus smaller assembly issues; says after adjustments they like it. Video unavailable; details are commenter report, not verified across units. |
+| 2523316818476518 | reviewed | 95ae3d5a066d6be4a021fd888eedd858228e254e38558470fcf97348fbd0f129 | Author reports rear tyre noise each revolution and brake noise after 750 miles despite cleaning/tightening. Suggestions include checking rotor runout and cleaning disc; author reports rubbing alcohol cleaning seemed to help. Six comments captured of 12 indicated; image present. |
+| 2526259061515627 | reviewed | 5b29e27ec6b2939ccdb756b81a4cb9256cdf91cecbc16bd3ff074b2136f8b56c | New York ride post and seat comfort discussion; commenter reports cushion relieved discomfort after an hour and a half. Four images/background captures, not all inspected for content; no mechanical fault. |
+| 2526611054813761 | reviewed | c500ec11e26119970d34f8d3d922c7e83b003d046b0d60aa413bb7e3acb7cb6d | Asks for front disc diameter; replies guess 180 mm and suggest contacting seller, but author reports no response. Dimensions unverified; no images. |
+| 2526635188144681 | reviewed | a1521dc88cc6e444fa5a9e7159265a8582ba24d526e92bf240d5ed035e855725 | Asks about 12-inch rims; replies provide preliminary fork/swing measurements and say axle sizes still needed. No installation or issue confirmed; background captures. |
+| 2526708664804000 | reviewed | 68c30edd4566dc3dc472b873f22812e2dc6dca95cdd9089884c38312e7b00cde | Asks about front indicators; replies suggest AliExpress or splice connectors, with no verified fit/outcome. No images. |
+| 2526843764790490 | reviewed | b1cc5105373dd7e55b13df28374f66ecaa2485e8e3034da2f814316c3754b637 | Modification appears to have 72 V battery and controller; author had not yet ridden. Comments discuss parts/tuning and religious argument; no operating outcome or failure verified. Two supplementary images. |
+| 2527113548096845 | reviewed | 4b91e818d5888a8fc35fa15bbe2f9e392d7a7de92b6aadcba11692e821c665f2 | Author recommends caution setting up controllers; discussion includes one member reporting their vehicle bogs on hills. Replies explain upgrade ideas and user opinions, not a verified repair. Eighteen comments indicated; one image. |
+| 2527269411414592 | reviewed | 430f7f5c277af48540a767a4ce0b1f1e394d5ecf28c1038b218938063f776fd5 | Share card for a private fan group; no comments. No problem identifiable. |
+| 2527981554676711 | reviewed | 9d4193caa4b7075959534b4a2552520209ddfec0214e2482e00eda623fac5432 | Spanish author seeks replacement throttle; comments suggest aftermarket 5-wire/3-wire units and splicing/adapting connectors. Fit and safety unverified; five images/background captures. |
+| 2528159747992225 | reviewed | eda7ca15190546c88503c4777fa78f095b27f7401592b4b39f9372d2e83f97d6 | UK/London police question; no comments. No reported enforcement event in visible text. |
+| 2528331024641764 | reviewed | 6c9df27e28b37991ef8396a17e18378c3ab35a5593bd0bf55e9723a29345b64a | Bluetooth display modification post; commenter says vehicle bogs on hills and author attributes their own setup to 72 V battery/controller; another suggests a video source. Attribution is a member-reported modification, not an independently verified fix. Seven comments, one image. |
+| 2528546964620170 | reviewed | 03a91bd9c80d69902e6e96f98d538939b7a897f1817b92e1013c07244c3f4592 | Author describes adding auxiliary battery for range and side bags; comments identify it as standard DX5 and describe hooks/sewn bag fabric. Fitment and range outcome unverified; 5 comments indicated and 5 visible, several blank/partial; images present. |
+| 2529185001223033 | reviewed | abe8e7580331bef445cb6841aa10fc512401b8b44035175a5d0fdaebcaa8acdd | Author proposes wider/taller saddle and planned mounting; commenter worries rails may fatigue, author disputes material and plans future update. No installation outcome; 8 comments indicated including one blank; images present. |
+| 2529302587877941 | reviewed | 093c437a1b0f641274074874c27fa753a17e7bb4cf5d16ca5433a39387e300be | New owner lists desired upgrades (brakes, suspension, tyres, battery, handlebars) and asks for suggestions; comments give opinions on levers/tyres and controller. No current fault explicitly reported; four supplementary image captures, not examined. |
+| 2530158941125639 | reviewed | f8bc573ebafc73bc96d9d28854109164dc38808ef5efbcf18b1dca935f554f45 | Shares idea for alternative motor mount; one commenter requests link. Four images present but not interpreted; no fault or tested installation reported. |
+| 2530451404429726 | reviewed | 27d94a941a9b7fbb130092e6da44634e521af93683661dd53f8894b05ff920f1 | Asks to see motor internals; replies discuss controller images rather than motor and note mismatch. One image/background capture; no fault identified. |
+| 2531147377693462 | reviewed | b8b0254bcdcb1d163b6333d8f227990c95b82bd1a01f1e2bedfcf1897fcbb283 | Asks for serviceable air rear suspension options; reply advises measuring eye-to-eye, but author has not received vehicle. No defect; no image. |
+| 2531156527692547 | reviewed | 336f4b1c9e13ad8765a5b5dde5828896645f1a114b7e7de5c534655c371f8239 | Asks whether wider tyres fit and requests photos; no comments. No fault reported. |
+| 2532097234265143 | reviewed | 5d2743ae9372457482dea30f984b0dfccf00f10615871931566fc6dc7d5af0e2 | Five-second video is unavailable; comments discuss lost keys, RFID bypass/security concerns and another commenter’s display sound/indicator volume reduction after reseating display. A separate user asks why their nearly new vehicle shuts off suddenly; unanswered. Eleven comments indicated and visible, exact hierarchy uncertain. |
+| 2532147797593420 | reviewed | 69c5902ef2c19611ef399585f0ff81673d558f673b781cb3d42f1c3da8b54b47 | French author reports displayed speed differs from actual and asks about P settings, sounds and second battery/charging. No comments visible; issues are questions/observations without resolution. |
+| 2532318694242997 | reviewed | 4dd1eb075b040b10a7691ddd248ba83f200d5366e515ff774594590111d46ac7 | Battery storage/parallel configuration discussion; members describe separate packs, battery selector and different voltages, with warnings about parallel pairing. Speed claims from modified builds are not verified; five images/background captures, not fully interpreted. |
+| 2532920044182862 | reviewed | b46b5594b52d3164e63e3cabe388c74ff3da0aceadaadfe971992222ee5c12eb | Spanish post says vehicle suddenly turns off when starting to use it and must be turned back on; text is visibly truncated at “prend”. No comments or resolution; no image. |
+| 2532924360849097 | reviewed | 4f19189a95f2ea139108bad657237314a6659b4c929247a307ce14f624ea7c98 | Portuguese extended-seat project for passenger; replies discuss shock lengths and side-stand adjustment. Adaptation not finished and no failure reported; three images, content not fully interpreted. |
+| 2533031264171740 | reviewed | 27fd52c01c44aa9a31651d88af8e552b2f2c523b7c4a32b02269d84835cdb8ee | Swingarm project; author/commenter says center brace had to be shortened and rethreaded to fit. This is modification fitment, not a reported failure; eight comments including two blank and eight image/background files. |
+| 2533087017499498 | reviewed | 71b3612f2b2fa327956020025ec930cdf49bb42d403e757134fdbf2df3403191 | Author describes completed extended-seat installation and plans possible support bar; commenters warn about steep angle and passenger weight behind rear axle. Fork modification described, not a failure; operational testing not clear, one image. |
+| 2533932994081567 | reviewed | faed981b377d719a0c918b3542811f57cb8613750f193ce9a6eb46842e53ee0d | Storage discussion: author carries supermarket bags; replies suggest panniers/baskets and one member says zip ties prevent basket movement. Another member questions plastic-bag security; no reported failure or loss. Seven image/background files, not fully interpreted; 9 comments indicated, one blank. |
+| 2534057540735779 | reviewed | 5a4d499ec3fe7ecc801229bce069237cabe6bdbb2a605a59cfe45307d43a0e47 | Author reports rear brake fluid leaked inside shipping box and asks specification. Comments provide conflicting DOT 5, mineral oil and DOT 3/4 suggestions; author says seller support provided correct spec, but reply does not state it and notes lid lacked marking. 8 of 9 comments visible, two blank; background captures present. |
+| 2534861450655388 | reviewed | 403a53d010551dda88346629768aa9029091c9e8a845d46f1e89bb7e65692049 | French hypothetical asks about putting rear motor wheel at front; replies discuss fork spacing/bolt and need for separate controller. No actual modification or fault; compatibility assertions unverified. |
+| 2535044030637130 | reviewed | 1e3178b293272ba35a7be5516a68a729d9e1e10ec80422608a55d9af42f611f7 | French insurance discussion with conflicting member anecdotes, prices and interpretations; not verified legal advice and not a technical failure. 15 comments indicated/visible; hierarchy partly nested and uncertain. |
+| 2536463203828546 | reviewed | dbc3708b578be696f7d8df9d6a20f88b4e3d7d13cd0c9cf226ab52db711e6f99 | Italian author says front brake feels very weak and asks how to restore it. No comments, image or remedy captured. |
+| 2536532343821632 | reviewed | c29b9ab75fad1fe55008a3c997de4e87bbcf48735954feb113b0efcc99c33bb6 | Asks if vehicle is legal/safe on Paris roads; commenters make conflicting personal/legal claims, including one resident’s apprehension and another changing label. Seven comments visible; claims unverified, no actual enforcement event asserted. |
+| 2536699943804872 | reviewed | 9209a8625b11ffe2885658c42ba1fc217ffee863173f546972eba2406c9cc17c | Post image only; comments debate extended rear load/structure, but no explicit failure/event. Four comments shown, initially Most relevant; All comments selection not rechecked. Image not interpreted beyond archive presence. |
+| 2537247217083478 | reviewed | 14bca9f44f33799e4d93eb9637e13f818ce725e2596834ff778fc3fddcc419fb | French battery-replacement question; commenter advises XT60 and 48/52 V if retaining controller, another mentions 60 V. 16 replies unopened and filter Most relevant; no compatibility verified. Two recheck images. |
+| 2537312247076975 | reviewed | e3a1f10e54c463c575f7aae9bbbbc5dedec0084f3ea998f535da42a1f6017e45 | Author reports broken display and cannot find replacement. Commenter suggests replacing controller and makes claims about gauges/speed; suggestion unverified. One comment captured. |
+| 2537508483724018 | reviewed | aaed05e4b226198a3a1f93874a93f13ca57b99cf8d8baf493a1a5f169375f8b9 | French commenter reports new vehicle wiring harness issue; another says same persisted despite three replacement dashboards and one controller, warranty unresolved and requested harness not supplied. 7 comments, Most relevant filter, two images/rechecks and one comment image. |
+| 2537744123700454 | reviewed | c99e6e679c16cbb7d67caf066afcc0d864473df6d731400992116cc2f542ef2d | Reopened in authenticated Chrome; French original text and 11 displayed comments reviewed with All comments selected and visible replies expanded. Two attached videos were not viewed. |
+| 2538229023651964 | reviewed | 4b5a42c501e55381eff82dd744b063a8989045fd61dfaebce101243ac3959027 | Asks about 52 V battery compatibility; comments conflict on controller voltage tolerance and include several unopened replies. Only 5 of 12 comments captured despite All comments; no verified test result. |
+| 2538444636963736 | reviewed | a08fccd4e1a97cd501b48977afaf0ea510bf95f3b7a13685ca1e2e7205a5da3d | Record text is only a label/capture; inspect complete source and all comment material before classification. Media or source context may be missing; do not infer a fault. |
+| 2539325760208957 | reviewed | 4a320ed5dcdcc8b69bd8ff1ca6b46a24332a286dcf16ccd10ac9776a9490286f | Inspect all original text/comments and supplementary captures; record any specific fault only if explicitly described. Preserve media/count limitations. |
+| 2539686083506258 | reviewed | d0f24b1e1e3719a13df504ccd5b4e3163498d2ae0c1cab06cee156fe046e7be0 | Author reports rear tubeless tyre puncture/flat and asks how to reinflate or replace it. Commenter describes sealant method and says it worked on a different tyre; advice not independently validated. Two comments captured. |
+| 2540588923415974 | reviewed | 4ad44d0b9c37d1cdd46b370e4ad6175abe3fa025d805c5370d702c2f352e807b | Image post; comments discuss rear mudguard and modified swingarm/battery setup. Only 8 of 13 comments visible, some replies unopened; image not examined. No explicit failure identified. |
+| 2540795523395314 | reviewed | 4d9004e93ff932cf598d855940cc5ea575155d1a90dc9248b02e7e80d2a822e4 | Author reports sore seat and battery gauge fluctuating/down to one white bar after under 10 miles. No comments. Battery indication/range concern is explicit but cause unresolved. |
+| 2541548456653354 | reviewed | 567796fa05d232f2117239720719032ee0be89d23eaecd0c302073180382cb50 | Parts arrival update for small units; no fault stated. Two images in archive; not inspected. |
+| 2543113856496814 | reviewed | ca8f245544911689d39b2c677efbbad97f744a0ded70b2b87ef371ca283ea3fc | Asks top speed on modified 72 V setup; two commenters give speed claims. Not verified and no fault reported. |
+| 2543329486475251 | reviewed | fa855249c59427718f9c5e342eeaacdbcd4f116c300fe4c76728fee1493762cb | Author considers returning one version due to long custom saddle preference and concern moisture may reach controller while riding in snow. Comments offer unverified frame/controller comparisons. Five comments visible; no confirmed water ingress. |
+| 2543399503134916 | reviewed | 676f1ce266a3381cf668c41b9bd1244679cd42eb1c3c6f9b791c6d58fbe1434f | Author reports liking 210 mm shock replacement. Comments ask source and discuss cargo net; Most relevant filter, completeness uncertain. Images/background captures present. |
+| 2544246466383553 | reviewed | 28212905f39052cd8b67a8bf64f467b6f27bc4d34c869cd9114afbeb5cdcbaa5 | Reopened in authenticated Chrome; original text and all displayed 18 comments/replies reviewed with All comments selected. The attached image was not examined. |
+| 2544389299702603 | reviewed | b87c177cbdc12e86da8fb696ac1a875ca324f285539aa8434e467efa11251965 | Author reports Sotion H10 motor as direct-fit in their modification and says stock rotor bolts on; operating at 9 kW with planned battery addition. Modified setup, not a failure; two images, unverified. |
+| 2544575883017278 | reviewed | 5a8c43a136a03da868b4c40b17db6e49a511350b6f51fe3fe2155eae79e562fa | French asks whether inner tube can be fitted and where to find parts. Translation preserved; comments/filter/completeness not verified; one post image and one comment image, not examined. |
+| 2545885392886327 | reviewed | ccfbe2cdaffa0b4a84b61c6c353e97796f3a29606a4db8e204a2ded81fa35f40 | Caption “lol had to” and one comment about moving; image present but not interpreted. No issue identifiable from text. |
+| 2547125186095681 | reviewed | d18648016bd05598ad6b51af4c54bdb1f3666669d13a771bcc170ccb6e4ea9a8 | Caption says fake pedal setup; no comments. Three image/background files, not interpreted; no failure stated. |
 
 - 2026-11-23: revisão iniciada de 2300054790802723; texto e comentários lidos, captura adicional identificada como notificações alheias. Imagens ainda por inspecionar; manter pendente. Continuação rearmada.
 
@@ -1073,3 +1073,178 @@ Previous checklist missing; previous reported 10/583 cannot be independently ver
 - 2026-11-23: Reviewed 2483205342487666, 2484128315728702 and 2484133972394803; identified misattributed recheck containing distinct accident in 2487165998758267.
 
 - 2026-11-23: Reviewed 2485762868898580, 2486809322127268 and 2486870352121165, including images and source context.
+
+- 2026-11-23: Reviewed 2486898675451666, 2486929278781939 and 2487135812094619, including supplementary captures and the available photo.
+
+- 2026-11-23: Reviewed 2487165998758267, 2487317978743069 and 2487529225388611, including supplementary captures and images; separate collision report retained for reconciliation.
+
+- 2026-11-23: Reviewed 2487875402020660, 2488157571992443 and 2488436188631248, including captures; videos unavailable.
+
+- 2026-11-23: Reviewed 2489058645235669, 2490351418439725 and 2490492985092235, including captures and available images.
+
+- 2026-11-23: Reviewed 2490811328393734 and 2491165371691663, including captures and images; cross-post duplicate identified.
+
+- 2026-11-23: Reviewed 2491298931678307, 2491331208341746 and 2491703714971162, including captures and available image.
+
+- 2026-11-23: Reviewed 2492646641543536 and 2492711201537080 with captures and available images.
+
+- 2026-11-23: Reviewed 2493126768162190, including original French, comments, supplementary captures and six images.
+
+- 2026-11-23: Reviewed 2493769608097906 and 2495235234618010, including rechecks and available images.
+
+- 2026-11-23: Reviewed 2495418424599691, including rechecks and image.
+
+- 2026-11-23: Reviewed 2495428141265386 including rechecks; video unavailable.
+
+- 2026-11-23: Reviewed 2495429674598566 and supplementary captures; video unavailable.
+
+- 2026-11-23: Reviewed 2495552337919633, including captures and three images.
+
+- 2026-11-23: Reviewed 2495685631239637 and supplementary captures.
+
+- 2026-11-23: Reviewed 2495976937877173 and captures; repeated mileage case identified.
+
+- 2026-11-23: Reviewed 2496408064500727, rechecks and image.
+
+- 2026-11-23: Reviewed 2496908057784061 and captures; video unavailable.
+
+- 2026-11-23: Reviewed 2497134657761401 and captures.
+
+- 2026-11-23: Reviewed 2499199627554904, captures and image.
+
+- 2026-11-23: Reviewed 2499455934195940 and supplementary captures.
+
+- 2026-11-23: Reviewed 2499638714177662 and supplementary captures; videos unavailable.
+
+- 2026-11-23: Reviewed 2499661757508691, captures and image.
+
+- 2026-11-23: Reviewed 2499688147506052 and captures; videos unavailable.
+
+- 2026-11-23: Reviewed 2499739137500953, captures and images.
+
+- 2026-11-23: Reviewed 2499857180822482 and supplementary captures.
+
+- 2026-11-23: Reviewed 2499870687487798 and supplementary captures; video unavailable.
+
+- 2026-11-23: Reviewed 2499891864152347, captures and image.
+
+- 2026-11-23: Reviewed 2500025950805605, long comments, supplementary capture and controller image; video unavailable.
+
+- 2026-11-23: Reviewed 2500325610775639 including captures and rim image; no fall inferred.
+
+- 2026-11-23: Reviewed 2500447870763413, captures and images; related case cross-referenced.
+
+- 2026-11-23: Reviewed 2500455887429278, captures and image.
+
+- 2026-11-23: Reviewed 2500655120742688 and supplementary captures.
+
+- 2026-11-23: Reviewed 2501024900705710, supplementary captures and image.
+
+- 2026-11-23: Reviewed 2501041457370721 and 2501286694012864 with captures.
+
+- 2026-11-23: Reviewed 2501429440665256 and 2502120187262848, including all captures and replies.
+
+
+## Review checkpoint — 2026-11-23
+
+- Reviewed next batch of 12 records, 2502816640526536 through 2505243956950471 (IDs are not numerically consecutive). Each post.md original-text, comments/replies, collection notes and supplementary capture sections were inspected; relevant local images counted and inspected as noted above.
+- Remaining checklist rows: 110 pending. 473 reviewed including two system events; reviewed status does not imply Facebook completeness.
+- Last processed ID: 2505243956950471.
+- Limits: source archive records are predominantly partial; no Facebook pages reopened in this report-review batch. Continue full-source review and later cross-check accidents, falls, fork, frame, brakes, wheels and suspension.
+
+
+## Review checkpoint — 2026-11-23 (batch 2)
+
+- Reviewed next 12 records in full from source post.md files, including comments, replies, supplementary captures and local image inventory. Last processed ID: 2513418332799700.
+- Remaining pending: 98; reviewed: 485 including two group system events. Partial capture and unverified media limitations remain common.
+- Reconcile distinct brake-control, power/wiring, suspension and fork-play cases during final report synthesis; no Facebook pages reopened.
+
+
+## Review checkpoint — 2026-11-23 (batch 3)
+
+- Reviewed 12 more complete local records. Last processed ID: 2508224109985789.
+- Remaining pending: 86; reviewed: 497 including two system events.
+- Key separate cases retained: battery/controller power cut in modified setup; unresolved rotor noise; separate throttle/braking safety report in comments. Media unavailable or not interpreted is documented.
+
+
+## Review checkpoint — 2026-11-23 (batch 4)
+
+- Reviewed 12 full local records, including supplementary captures and media inventory where present. Last processed ID: 2516422159165984.
+- Remaining pending: 74; reviewed: 509 including two group system events.
+- No media was treated as evidence unless directly inspectable from source text; incomplete comments and unverified claims remain marked.
+
+
+## Review checkpoint — 2026-11-23 (batch 5)
+
+- Reviewed 12 complete local records, including their full available comment text and media inventory. Last processed ID: 2519670318841168.
+- Remaining pending: 62; reviewed: 521 including two system events.
+- Potential instrumentation case: odometer accuracy disputed in comments; retain as an explicit reported issue with attribution and partial evidence.
+
+
+## Review checkpoint — 2026-11-23 (batch 6)
+
+- Reviewed 12 source records. Last processed ID: 2523316818476518.
+- Remaining pending: 50; reviewed: 533 including two system events.
+- Electrical light-control damage, replacement throttle query, and separate brake/tyre-noise cases retained with distinct evidence strength and unresolved limitations.
+
+
+## Review checkpoint — 2026-11-23 (batch 7)
+
+- Reviewed 12 local records and their available supplementary/comment content. Last processed ID: 2529185001223033.
+- Remaining pending: 38; reviewed: 545 including two system events.
+- Outstanding limitations include incomplete reply hierarchy, blank comment items and unexamined media.
+
+
+## Review checkpoint — 2026-11-23 (batch 8)
+
+- Reviewed 12 more source records. Last processed ID: 2533087017499498.
+- Remaining pending: 26; reviewed: 557 including two system events.
+- Sudden shutoff reports retained as incomplete where text is truncated or discussion absent; adaptation work is distinguished from failure reports.
+
+
+## Review checkpoint — 2026-11-23 (batch 9)
+
+- Reviewed 14 remaining records through the newest archived post. Last processed ID: 2539325760208957.
+- Checklist rows pending: 0; reviewed: 583 directory IDs: 581 original-post records and 2 Facebook system events. The denominator excludes those events and the two blocked incomplete records.
+- Several records have incomplete comment capture, unopened replies, missing/unexamined media or uncertain hierarchy. Do not calculate frequencies for affected cases unless the distinct original-post numerator and denominator can be justified from fully reviewed accessible records.
+- Next: recheck every source file against its checklist hash, identify changed files, audit event IDs, conduct required multilingual accident/fall/fork/frame/brake/wheel/suspension cross-check across all source files, then synthesize the report.
+
+
+## Review checkpoint — 2026-11-23 (batch 10)
+
+- Reviewed the final 12 pending source records; last processed ID: 2547125186095681.
+- Checklist pending: 0; 583 IDs are indexed, of which 2 are known system events, leaving 581 original-post records before inaccessibility exclusions.
+- At least one of these last records contains a browser capture truncated mid-thread; this record remains limited and cannot support a complete thread-level count.
+
+- Updated completeness reconciliation: two records explicitly blocked from denominator after source review due to truncation/missing material: 2537744123700454 and 2544246466383553. Eligible original-post scope is 579 (581 original posts less the two blocked incomplete captures); system events excluded.
+
+- Reconciliation correction: 2537744123700454 is the incomplete record; 2544246466383553 has a truncated 18-comment capture. These are the two blocked IDs used for N=560.
+
+
+## Final reconciliation — 2026-11-23
+
+- Reconciled all 583 checklist IDs against 583 local directories and 583 post.md files; no source post.md was missing. The prior 461 stored hashes matched. Added hashes for the remaining 122 source records after confirming every source file timestamp precedes the checklist timestamp; no source record changed after the recorded review.
+- Substantive review status: 581 original-post records reviewed and 2 original-post records blocked for unavailable/truncated material; two system events reviewed separately. Eligible denominator N=579.
+- The earlier checkpoint phrase “these two blocked IDs used for N=560” was an arithmetic error. It is superseded: 581 original posts minus 2 blocked records equals N=579.
+- Completed the required cross-check of accident/fall, fork, frame, brake, wheel and suspension terms across original text, comments, replies and supplementary captures in the languages present. Only the related rear-fender-weld reports explicitly connect a scooter failure with an accident; other mentions were unrelated, hypothetical, attributed to riding/collision, or did not establish failure-caused fall. Added omitted explicit mechanical and electrical cases to the provisional draft; the fixed report remains unchanged while two records are blocked.
+- Provisional draft reconciled to the checklist and source archive; final publication is blocked by the two records above. No post records were modified.
+
+
+## Reopen reconciliation — 2026-11-23
+
+- Reopened 2537744123700454 in the authenticated Chrome session. All displayed 11 comments were reviewed with All comments selected; videos were not viewed. Text and comments support review; media limitation retained.
+- Reopened 2544246466383553 in the authenticated Chrome session. All displayed 18 comments/replies were reviewed; a commenter reports a prior attempt with two identical batteries burned out. The attached image was not examined; no technical conclusion is drawn from it.
+- Updated both records from blocked to reviewed for report scope. All 581 original-post IDs are now reviewed; two Facebook system events remain separate. N=581. No source post.md files were changed.
+- Updated the working draft denominator and disclosures. Final report validation and publication remain to be completed.
+
+- Final report validation passed: 583 checklist entries reviewed (581 original posts plus 2 system events); no pending or blocked records. The fixed report was updated after review completion. 102 Facebook post links resolve to corresponding local post.md directories; tables have consistent column counts. Frequency denominator N=581; text, comments, replies and media limitations are disclosed. No source post records were modified.
+
+- Report omission correction — 2026-11-23: checklist review of 2469960143812186 already recorded the owner's explicit account that rear-axle tightening bent the fork inward, likely from insufficient spacing; the owner added washers and reported the fork no longer forced inward, with caliper alignment still awaiting recheck. Added this distinct case to the report as 1/581; source post.md left unchanged.
+
+- Image cross-check — 2026-11-23: user-provided photo visually matches the archived post image for 2413093546165513. Updated the report row to describe the visible separated lower fork leg, classify the explicit report as 1/581, and record the disputed cause and unresolved replacement request. The case remains outside Accident highlights because no scooter-failure-related accident is established. Source archive unchanged.
+
+- Safety framing — 2026-11-23: retained 2413093546165513 outside Accident highlights because no accident is reported or established. Clarified in its general problem row that a severe-crash consequence if such a separation occurred while riding is a potential-risk assessment, not an observed event.
+
+- User-requested safety illustration — 2026-11-23: added the archived front-fork photo for post 2413093546165513 within Accident highlights, explicitly labelled as a potential severe accident risk and not an accident record. The image documents component separation, not a fall or collision.
+
+- Recovery note — 2026-11-23: restored the full 583-entry reviewed checklist from its unreachable Git blob (10bbe62e4b3b0d750b0ac2d1b5b8d60efe9e30ee) after it was found missing during cleanup. Recreated the fixed report from the current README report body and reinstated the method section. Kept the README without the two sections explicitly removed by the user. No archive post records changed.

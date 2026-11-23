@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+.tmp-iscooter-report-draft.md
+.tmp-report-pending-ids.txt
