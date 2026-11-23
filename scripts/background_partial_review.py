@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """Conservative, resumable collection of supplementary data from the open group tab."""
-import datetime, fcntl, hashlib, io, json, os, re, select, shutil, subprocess, sys, threading, time, urllib.parse, urllib.request
+import datetime, hashlib, io, json, os, re, select, shutil, subprocess, sys, threading, time, urllib.parse, urllib.request
+import contextlib
+if os.name == 'nt':
+    import msvcrt
 from pathlib import Path
 from zoneinfo import ZoneInfo
 from PIL import Image
@@ -13,6 +16,39 @@ LOCK = ARCHIVE / 'background-review.lock'
 MCP = os.environ.get('ISCOOTER_CHROME_DEVTOOLS_MCP') or shutil.which('chrome-devtools-mcp') or '/home/cas/.npm/_npx/15c61037b1978c83/node_modules/.bin/chrome-devtools-mcp'
 GROUP = '2207593166715553'
 EVENTS = {'2207593196715550', '2207594330048770'}
+
+
+@contextlib.contextmanager
+def exclusive_lock(path):
+    """Hold a non-blocking exclusive process lock across supported OSes."""
+    if os.name == 'nt':
+        import msvcrt
+    path.parent.mkdir(exist_ok=True)
+    mode = 'a+b' if os.name == 'nt' else 'a+'
+    with path.open(mode) as lock:
+        try:
+            if os.name == 'nt':
+                lock.seek(0, os.SEEK_END)
+                if lock.tell() == 0:
+                    lock.write(b'\0')
+                    lock.flush()
+                lock.seek(0)
+                msvcrt.locking(lock.fileno(), msvcrt.LK_NBLCK, 1)
+            else:
+                import fcntl
+                fcntl.flock(lock.fileno(), fcntl.LOCK_EX | fcntl.LOCK_NB)
+        except (BlockingIOError, OSError) as exc:
+            if isinstance(exc, BlockingIOError) or isinstance(exc, PermissionError) or getattr(exc, 'winerror', None) in (32, 33, 36):
+                raise BlockingIOError('lock is already held') from exc
+            raise
+        try:
+            yield lock
+        finally:
+            if os.name == 'nt':
+                lock.seek(0)
+                msvcrt.locking(lock.fileno(), msvcrt.LK_UNLCK, 1)
+            else:
+                fcntl.flock(lock.fileno(), fcntl.LOCK_UN)
 
 def stamp():
     return datetime.datetime.now(ZoneInfo('Europe/Lisbon')).strftime('%Y-%m-%d %H:%M:%S %Z')
@@ -173,63 +209,65 @@ def save_images(folder, photos):
 
 def main():
     ARCHIVE.mkdir(exist_ok=True)
-    with LOCK.open('w') as lock:
-        try: fcntl.flock(lock, fcntl.LOCK_EX | fcntl.LOCK_NB)
-        except BlockingIOError: print('Another background review is running'); return 1
-        previous = json.loads(STATE.read_text()) if STATE.exists() else {}
-        state = {'status':'starting','started':stamp(),'pid':os.getpid(),'processed':previous.get('processed', 0),'last_id':previous.get('last_id'),'limitations':'Supplementary captures require reconciliation; complete records are never modified.'}
-        checkpoint(state, 'starting continuous review of partial records; requested all accessible records')
-        progress_stop = start_progress(state)
-        client = None
-        try:
-            client = Client()
-            pages = client.tool('list_pages', {})
-            matches = re.findall(r'(?m)^(\d+):[^\n]*facebook\.com/groups/' + GROUP + r'[^\n]*', pages)
-            if not matches: raise RuntimeError('authenticated group tab not found')
-            page = int(matches[0]); client.tool('select_page', {'pageId':page})
-            records = []
-            for p in ARCHIVE.glob('*/post.md'):
-                if p.parent.name.isdigit() and p.parent.name not in EVENTS: records.append(p)
-            records.sort(key=lambda p:int(p.parent.name), reverse=True)
-            if state['last_id'] and any(p.parent.name == state['last_id'] for p in records):
-                records = records[next(i for i,p in enumerate(records) if p.parent.name == state['last_id'])+1:]
-            state['status'] = 'running'; checkpoint(state, f'group tab selected; {len(records)} original-post records inventoried; complete records will be skipped')
-            for post in records:
-                text = post.read_text(errors='replace')
-                status = re.search(r'\*\*Status:\*\*\s*([^\n]+)', text, re.I)
-                if status and status.group(1).strip().lower().startswith('complete'): continue
-                ident = post.parent.name
-                state['in_progress'] = ident; checkpoint(state, f'in progress: {ident}; previous completed ID {state["last_id"] or "none"}')
-                try:
-                    data, total, filtering, unopened = retry_record(
-                        lambda: read_post(client, page, ident),
-                        lambda attempt, exc: checkpoint(state, f'{ident}: attempt {attempt}/3 failed ({str(exc)[:200]}); retrying in 10 seconds'))
-                except Exception as e:
-                    error = str(e)[:300]
-                    if any(x in error.lower() for x in ('connection', 'login', 'authorisation', 'authorization', 'automation', 'captcha')):
-                        raise
-                    state['last_id'] = ident; state['in_progress'] = None
-                    mark_attempts_exhausted(post, ident, error)
-                    state.setdefault('attempts_exhausted', {})[ident] = {'attempts': 3, 'error': error}
-                    checkpoint(state, f'{ident}: marked complete after 3 unsuccessful attempts ({error}); content incomplete, future automatic retries skipped')
-                    continue
-                images = save_images(post.parent, data.get('photos', []))
-                section = f'\n\n## Background recheck — {stamp()}\n\nSupplementary, unreviewed capture; original data retained. Filter: {filtering}; Facebook count: {total if total is not None else "not verified"}; {len(data["comments"])} comment/reply articles visible. Unopened reply controls: {"yes" if unopened else "none observed"}. UI labels, translations, missing content, duplicate captures and uncertain hierarchy may appear. Image contents not interpreted. This capture does not establish completeness; status remains partial.\n\n### Visible dialog capture\n\n' + data['text'] + '\n\n### Comment and reply articles\n\n'
-                for c in data['comments']:
-                    section += '#### ' + (c.get('label') or 'Unlabelled') + ' — ' + (c.get('date') or 'date not verified') + '\n\n' + c.get('text','') + '\n\n'
-                section += '### Images observed\n\n' + ('\n'.join(images) if images else 'No downloadable post or comment images observed; attachment coverage not verified.') + '\n'
-                with post.open('a') as f: f.write(section)
-                state['processed'] += 1; state['last_id'] = ident; state['in_progress'] = None
-                checkpoint(state, f'{ident}: supplementary capture saved; {len(data["comments"])} visible of {total if total is not None else "unverified"} indicated; filter {filtering}; {len(images)} image observations; record remains partial pending reconciliation')
-                time.sleep(2)
-            state['status'] = 'finished_with_partials'; checkpoint(state, f'pass ended after {state["processed"]} records; supplementary captures need manual reconciliation and do not make records complete')
-        except Exception as e:
-            state['status'] = 'stopped'; state['error'] = str(e)[:300]
-            checkpoint(state, f'stopped: {state["error"]}; last ID {state["last_id"]}; in progress {state.get("in_progress")}')
-            print('Stopped:', state['error'], flush=True); return 1
-        finally:
-            progress_stop.set()
-            if client: client.close()
+    try:
+        with exclusive_lock(LOCK):
+            previous = json.loads(STATE.read_text()) if STATE.exists() else {}
+            state = {'status':'starting','started':stamp(),'pid':os.getpid(),'processed':previous.get('processed', 0),'last_id':previous.get('last_id'),'limitations':'Supplementary captures require reconciliation; complete records are never modified.'}
+            checkpoint(state, 'starting continuous review of partial records; requested all accessible records')
+            progress_stop = start_progress(state)
+            client = None
+            try:
+                client = Client()
+                pages = client.tool('list_pages', {})
+                matches = re.findall(r'(?m)^(\d+):[^\n]*facebook\.com/groups/' + GROUP + r'[^\n]*', pages)
+                if not matches: raise RuntimeError('authenticated group tab not found')
+                page = int(matches[0]); client.tool('select_page', {'pageId':page})
+                records = []
+                for p in ARCHIVE.glob('*/post.md'):
+                    if p.parent.name.isdigit() and p.parent.name not in EVENTS: records.append(p)
+                records.sort(key=lambda p:int(p.parent.name), reverse=True)
+                if state['last_id'] and any(p.parent.name == state['last_id'] for p in records):
+                    records = records[next(i for i,p in enumerate(records) if p.parent.name == state['last_id'])+1:]
+                state['status'] = 'running'; checkpoint(state, f'group tab selected; {len(records)} original-post records inventoried; complete records will be skipped')
+                for post in records:
+                    text = post.read_text(errors='replace')
+                    status = re.search(r'\*\*Status:\*\*\s*([^\n]+)', text, re.I)
+                    if status and status.group(1).strip().lower().startswith('complete'): continue
+                    ident = post.parent.name
+                    state['in_progress'] = ident; checkpoint(state, f'in progress: {ident}; previous completed ID {state["last_id"] or "none"}')
+                    try:
+                        data, total, filtering, unopened = retry_record(
+                            lambda: read_post(client, page, ident),
+                            lambda attempt, exc: checkpoint(state, f'{ident}: attempt {attempt}/3 failed ({str(exc)[:200]}); retrying in 10 seconds'))
+                    except Exception as e:
+                        error = str(e)[:300]
+                        if any(x in error.lower() for x in ('connection', 'login', 'authorisation', 'authorization', 'automation', 'captcha')):
+                            raise
+                        state['last_id'] = ident; state['in_progress'] = None
+                        mark_attempts_exhausted(post, ident, error)
+                        state.setdefault('attempts_exhausted', {})[ident] = {'attempts': 3, 'error': error}
+                        checkpoint(state, f'{ident}: marked complete after 3 unsuccessful attempts ({error}); content incomplete, future automatic retries skipped')
+                        continue
+                    images = save_images(post.parent, data.get('photos', []))
+                    section = f'\n\n## Background recheck — {stamp()}\n\nSupplementary, unreviewed capture; original data retained. Filter: {filtering}; Facebook count: {total if total is not None else "not verified"}; {len(data["comments"])} comment/reply articles visible. Unopened reply controls: {"yes" if unopened else "none observed"}. UI labels, translations, missing content, duplicate captures and uncertain hierarchy may appear. Image contents not interpreted. This capture does not establish completeness; status remains partial.\n\n### Visible dialog capture\n\n' + data['text'] + '\n\n### Comment and reply articles\n\n'
+                    for c in data['comments']:
+                        section += '#### ' + (c.get('label') or 'Unlabelled') + ' — ' + (c.get('date') or 'date not verified') + '\n\n' + c.get('text','') + '\n\n'
+                    section += '### Images observed\n\n' + ('\n'.join(images) if images else 'No downloadable post or comment images observed; attachment coverage not verified.') + '\n'
+                    with post.open('a') as f: f.write(section)
+                    state['processed'] += 1; state['last_id'] = ident; state['in_progress'] = None
+                    checkpoint(state, f'{ident}: supplementary capture saved; {len(data["comments"])} visible of {total if total is not None else "unverified"} indicated; filter {filtering}; {len(images)} image observations; record remains partial pending reconciliation')
+                    time.sleep(2)
+                state['status'] = 'finished_with_partials'; checkpoint(state, f'pass ended after {state["processed"]} records; supplementary captures need manual reconciliation and do not make records complete')
+            except Exception as e:
+                state['status'] = 'stopped'; state['error'] = str(e)[:300]
+                checkpoint(state, f'stopped: {state["error"]}; last ID {state["last_id"]}; in progress {state.get("in_progress")}')
+                print('Stopped:', state['error'], flush=True); return 1
+            finally:
+                progress_stop.set()
+                if client: client.close()
+    except BlockingIOError:
+        print('Another background review is running')
+        return 1
     return 0
 
 if __name__ == '__main__': sys.exit(main())

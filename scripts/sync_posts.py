@@ -132,10 +132,7 @@ def main():
     base.ARCHIVE.mkdir(exist_ok=True)
     audit_results = audit_archive.audit(base.ARCHIVE)
     print('Local audit:', json.dumps(audit_archive.summary(audit_results), ensure_ascii=False), flush=True)
-    import fcntl
-    with base.LOCK.open('a') as lock:
-        try: fcntl.flock(lock, fcntl.LOCK_EX | fcntl.LOCK_NB)
-        except BlockingIOError: raise SystemExit('Another collector is running')
+    with base.exclusive_lock(base.LOCK):
         if args.resume:
             if not STATE.exists(): raise SystemExit('No sync checkpoint to resume')
             state=json.loads(STATE.read_text())
